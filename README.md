@@ -20,6 +20,11 @@ pip install shapely
 pip install googlemaps
 pip install pyspark
 ```
+# Dataset
+Since the dataset is too big to be uploaded to the Github, you can download it in the website -
+https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+file name - High Volume For-Hire Vehicle Trip Records (CSV)
+time period: Jan - Jun 2020
 
 # Run
 ```

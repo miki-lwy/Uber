@@ -34,4 +34,5 @@ pyspark
 ```
 
 # Limitation of this project
-Please refer to the pdf file - Written Assessment 2020
+Since the dataset does not include Uber drivers or users information, we cannot calculate the hourly rate with the corresponding ride details. Some people had uploaded their own Uber trip online. However, it is quite expensive to collect a reasonable amount of samples online. The alternatives would be calculating the hourly rate based on the estimated fare per ride for UberX and then taking the average value to get a general idea of the hourly rate. 
+We also assume that the idling time of Uber cars should be excluded by this method.

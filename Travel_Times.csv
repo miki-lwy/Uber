@@ -1,0 +1,768 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"473","Frejgatan 20, Stockholm","2","Odensala fd församling","12/1/2019 - 12/31/2019, Every day, Daily Average",1847,1542,2211
+"473","Frejgatan 20, Stockholm","8","Sankt Olofs glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1978,1630,2400
+"473","Frejgatan 20, Stockholm","17","Märsta södra glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1647,1318,2056
+"473","Frejgatan 20, Stockholm","24","Södra Ekilla","12/1/2019 - 12/31/2019, Every day, Daily Average",1770,1416,2211
+"473","Frejgatan 20, Stockholm","28","Steninge gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1772,1422,2207
+"473","Frejgatan 20, Stockholm","35","Märsta Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",1698,1368,2106
+"473","Frejgatan 20, Stockholm","36","Norrsunda glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1431,1118,1830
+"473","Frejgatan 20, Stockholm","37","Tingvalla","12/1/2019 - 12/31/2019, Every day, Daily Average",1702,1356,2136
+"473","Frejgatan 20, Stockholm","41","Norrsunda industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1634,1293,2064
+"473","Frejgatan 20, Stockholm","43","Arlanda stad","12/1/2019 - 12/31/2019, Every day, Daily Average",1530,1198,1953
+"473","Frejgatan 20, Stockholm","49","Västra Ryds glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1493,1167,1909
+"473","Frejgatan 20, Stockholm","54","Eds glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1421,1070,1886
+"473","Frejgatan 20, Stockholm","57","NV:a Vallentuna tätort","12/1/2019 - 12/31/2019, Every day, Daily Average",1638,1417,1893
+"473","Frejgatan 20, Stockholm","58","Löwenströmska Sjukhuset","12/1/2019 - 12/31/2019, Every day, Daily Average",1297,995,1690
+"473","Frejgatan 20, Stockholm","59","Angarns församling","12/1/2019 - 12/31/2019, Every day, Daily Average",1174,914,1506
+"473","Frejgatan 20, Stockholm","60","Östra Ormsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1406,1154,1712
+"473","Frejgatan 20, Stockholm","61","Bro glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1660,1301,2116
+"473","Frejgatan 20, Stockholm","62","Västra Ormsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1561,1257,1937
+"473","Frejgatan 20, Stockholm","63","Brunnby","12/1/2019 - 12/31/2019, Every day, Daily Average",1239,943,1627
+"473","Frejgatan 20, Stockholm","65","Centrala Vallentuna","12/1/2019 - 12/31/2019, Every day, Daily Average",1558,1314,1847
+"473","Frejgatan 20, Stockholm","66","Åby bostadsområde","12/1/2019 - 12/31/2019, Every day, Daily Average",1554,1219,1980
+"473","Frejgatan 20, Stockholm","69","Åby","12/1/2019 - 12/31/2019, Every day, Daily Average",1449,1203,1744
+"473","Frejgatan 20, Stockholm","72","Karlberg Rickeby","12/1/2019 - 12/31/2019, Every day, Daily Average",1349,1101,1652
+"473","Frejgatan 20, Stockholm","74","Västra Bällsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1429,1181,1727
+"473","Frejgatan 20, Stockholm","75","Skälby industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1183,897,1558
+"473","Frejgatan 20, Stockholm","76","Apoteksskogen","12/1/2019 - 12/31/2019, Every day, Daily Average",1234,966,1575
+"473","Frejgatan 20, Stockholm","78","Frestaby","12/1/2019 - 12/31/2019, Every day, Daily Average",1404,1093,1802
+"473","Frejgatan 20, Stockholm","81","Carlslund","12/1/2019 - 12/31/2019, Every day, Daily Average",1208,1003,1454
+"473","Frejgatan 20, Stockholm","82","Korpkulla","12/1/2019 - 12/31/2019, Every day, Daily Average",1287,1029,1609
+"473","Frejgatan 20, Stockholm","83","Vilunda","12/1/2019 - 12/31/2019, Every day, Daily Average",1154,870,1529
+"473","Frejgatan 20, Stockholm","85","Östra Odenslunda","12/1/2019 - 12/31/2019, Every day, Daily Average",1273,1006,1609
+"473","Frejgatan 20, Stockholm","86","Väsby industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1329,1057,1669
+"473","Frejgatan 20, Stockholm","87","Norra Runö","12/1/2019 - 12/31/2019, Every day, Daily Average",1140,948,1369
+"473","Frejgatan 20, Stockholm","88","Kragstalund","12/1/2019 - 12/31/2019, Every day, Daily Average",1363,1129,1644
+"473","Frejgatan 20, Stockholm","89","Bällstaberg","12/1/2019 - 12/31/2019, Every day, Daily Average",1220,1006,1478
+"473","Frejgatan 20, Stockholm","90","Västra Odenslunda","12/1/2019 - 12/31/2019, Every day, Daily Average",1116,841,1479
+"473","Frejgatan 20, Stockholm","92","Södra Runby","12/1/2019 - 12/31/2019, Every day, Daily Average",1335,1062,1677
+"473","Frejgatan 20, Stockholm","94","Prästgårdsmarken","12/1/2019 - 12/31/2019, Every day, Daily Average",1329,1078,1638
+"473","Frejgatan 20, Stockholm","95","Norra Smedby","12/1/2019 - 12/31/2019, Every day, Daily Average",1137,860,1502
+"473","Frejgatan 20, Stockholm","97","Brunna industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1423,1115,1814
+"473","Frejgatan 20, Stockholm","98","Norra landsbygden","12/1/2019 - 12/31/2019, Every day, Daily Average",1188,934,1510
+"473","Frejgatan 20, Stockholm","101","Brunna tätort","12/1/2019 - 12/31/2019, Every day, Daily Average",1388,1088,1770
+"473","Frejgatan 20, Stockholm","103","Åkerstorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1292,1106,1508
+"473","Frejgatan 20, Stockholm","104","Södra Smedby","12/1/2019 - 12/31/2019, Every day, Daily Average",1117,842,1480
+"473","Frejgatan 20, Stockholm","105","Kungsängens glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1309,1012,1691
+"473","Frejgatan 20, Stockholm","106","Östra Ryds glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",935,768,1137
+"473","Frejgatan 20, Stockholm","107","Runborg","12/1/2019 - 12/31/2019, Every day, Daily Average",1313,1082,1592
+"473","Frejgatan 20, Stockholm","108","Östra Täby Kyrkby","12/1/2019 - 12/31/2019, Every day, Daily Average",1283,1088,1512
+"473","Frejgatan 20, Stockholm","109","Fresta södra glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1206,897,1620
+"473","Frejgatan 20, Stockholm","110","Västra Bollstanäs","12/1/2019 - 12/31/2019, Every day, Daily Average",1118,842,1483
+"473","Frejgatan 20, Stockholm","111","Häradsallmänningen","12/1/2019 - 12/31/2019, Every day, Daily Average",1202,921,1567
+"473","Frejgatan 20, Stockholm","113","Karby Skogberga","12/1/2019 - 12/31/2019, Every day, Daily Average",1083,869,1348
+"473","Frejgatan 20, Stockholm","114","Östra landsbygden","12/1/2019 - 12/31/2019, Every day, Daily Average",1042,828,1309
+"473","Frejgatan 20, Stockholm","115","Östra Bollstanäs","12/1/2019 - 12/31/2019, Every day, Daily Average",1199,912,1574
+"473","Frejgatan 20, Stockholm","117","Bollstanäs industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1083,815,1439
+"473","Frejgatan 20, Stockholm","118","Täby kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",1181,971,1435
+"473","Frejgatan 20, Stockholm","121","Runö gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1264,1067,1496
+"473","Frejgatan 20, Stockholm","122","Midgård","12/1/2019 - 12/31/2019, Every day, Daily Average",1225,1012,1482
+"473","Frejgatan 20, Stockholm","124","Rotsunda","12/1/2019 - 12/31/2019, Every day, Daily Average",1052,788,1403
+"473","Frejgatan 20, Stockholm","125","Breddens industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1057,794,1407
+"473","Frejgatan 20, Stockholm","127","Åkersberga","12/1/2019 - 12/31/2019, Every day, Daily Average",1387,1175,1637
+"473","Frejgatan 20, Stockholm","128","Östra Söra","12/1/2019 - 12/31/2019, Every day, Daily Average",1470,1268,1702
+"473","Frejgatan 20, Stockholm","129","Tibbleängen","12/1/2019 - 12/31/2019, Every day, Daily Average",1433,1139,1801
+"473","Frejgatan 20, Stockholm","130","Södra Runö industri omr","12/1/2019 - 12/31/2019, Every day, Daily Average",1364,1146,1622
+"473","Frejgatan 20, Stockholm","131","Rotsunda gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1016,755,1366
+"473","Frejgatan 20, Stockholm","132","Kullen","12/1/2019 - 12/31/2019, Every day, Daily Average",1414,1231,1623
+"473","Frejgatan 20, Stockholm","133","Järvafältet","12/1/2019 - 12/31/2019, Every day, Daily Average",1188,771,1829
+"473","Frejgatan 20, Stockholm","134","Gillberga","12/1/2019 - 12/31/2019, Every day, Daily Average",1119,821,1523
+"473","Frejgatan 20, Stockholm","135","Tråsätra","12/1/2019 - 12/31/2019, Every day, Daily Average",1555,1349,1791
+"473","Frejgatan 20, Stockholm","136","Norra Kungsängen","12/1/2019 - 12/31/2019, Every day, Daily Average",1378,1076,1764
+"473","Frejgatan 20, Stockholm","137","S:a Midgårds industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1138,928,1394
+"473","Frejgatan 20, Stockholm","140","Vaxmora","12/1/2019 - 12/31/2019, Every day, Daily Average",956,719,1270
+"473","Frejgatan 20, Stockholm","141","Runö industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1412,1185,1681
+"473","Frejgatan 20, Stockholm","144","Stäket","12/1/2019 - 12/31/2019, Every day, Daily Average",1238,967,1584
+"473","Frejgatan 20, Stockholm","145","Kungsängen","12/1/2019 - 12/31/2019, Every day, Daily Average",1507,1281,1772
+"473","Frejgatan 20, Stockholm","146","Margretelund","12/1/2019 - 12/31/2019, Every day, Daily Average",1560,1352,1799
+"473","Frejgatan 20, Stockholm","147","Rotebro centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",961,706,1307
+"473","Frejgatan 20, Stockholm","148","Rotebro industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",983,727,1327
+"473","Frejgatan 20, Stockholm","149","Tunagård Österskär","12/1/2019 - 12/31/2019, Every day, Daily Average",1582,1365,1832
+"473","Frejgatan 20, Stockholm","151","Norra Gribbylund","12/1/2019 - 12/31/2019, Every day, Daily Average",1051,827,1335
+"473","Frejgatan 20, Stockholm","152","Väsjöområdet","12/1/2019 - 12/31/2019, Every day, Daily Average",890,639,1237
+"473","Frejgatan 20, Stockholm","153","Arninge arbetsområde","12/1/2019 - 12/31/2019, Every day, Daily Average",798,634,1003
+"473","Frejgatan 20, Stockholm","154","Västra Viby","12/1/2019 - 12/31/2019, Every day, Daily Average",1172,946,1450
+"473","Frejgatan 20, Stockholm","155","Östra Viby","12/1/2019 - 12/31/2019, Every day, Daily Average",906,642,1278
+"473","Frejgatan 20, Stockholm","157","Visinge","12/1/2019 - 12/31/2019, Every day, Daily Average",1009,819,1242
+"473","Frejgatan 20, Stockholm","158","Vallatorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1141,926,1404
+"473","Frejgatan 20, Stockholm","159","Rydbo","12/1/2019 - 12/31/2019, Every day, Daily Average",938,775,1134
+"473","Frejgatan 20, Stockholm","161","Västra Norrviken","12/1/2019 - 12/31/2019, Every day, Daily Average",909,660,1251
+"473","Frejgatan 20, Stockholm","163","Erikslund","12/1/2019 - 12/31/2019, Every day, Daily Average",1062,876,1286
+"473","Frejgatan 20, Stockholm","164","Östra Ensta","12/1/2019 - 12/31/2019, Every day, Daily Average",872,694,1095
+"473","Frejgatan 20, Stockholm","166","Lansen","12/1/2019 - 12/31/2019, Every day, Daily Average",856,680,1077
+"473","Frejgatan 20, Stockholm","167","Gribbylunds centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",957,751,1218
+"473","Frejgatan 20, Stockholm","168","Västra Vallabrink","12/1/2019 - 12/31/2019, Every day, Daily Average",1014,827,1243
+"473","Frejgatan 20, Stockholm","169","Molnsättra","12/1/2019 - 12/31/2019, Every day, Daily Average",1123,855,1473
+"473","Frejgatan 20, Stockholm","170","Sveavägen","12/1/2019 - 12/31/2019, Every day, Daily Average",836,661,1056
+"473","Frejgatan 20, Stockholm","172","Arninge arbetsomr södra","12/1/2019 - 12/31/2019, Every day, Daily Average",759,604,953
+"473","Frejgatan 20, Stockholm","173","Västra Ensta","12/1/2019 - 12/31/2019, Every day, Daily Average",841,685,1031
+"473","Frejgatan 20, Stockholm","174","Södra Hägernäs","12/1/2019 - 12/31/2019, Every day, Daily Average",726,575,915
+"473","Frejgatan 20, Stockholm","176","Södra Gribbylund","12/1/2019 - 12/31/2019, Every day, Daily Average",807,642,1013
+"473","Frejgatan 20, Stockholm","180","Ella","12/1/2019 - 12/31/2019, Every day, Daily Average",900,738,1097
+"473","Frejgatan 20, Stockholm","181","Svartgarn","12/1/2019 - 12/31/2019, Every day, Daily Average",1198,1046,1372
+"473","Frejgatan 20, Stockholm","183","Mellersta Viggbyholm","12/1/2019 - 12/31/2019, Every day, Daily Average",736,569,950
+"473","Frejgatan 20, Stockholm","186","Åkerby industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",779,615,986
+"473","Frejgatan 20, Stockholm","187","Övriga Edsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",977,757,1260
+"473","Frejgatan 20, Stockholm","188","Åkerbyvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",901,699,1159
+"473","Frejgatan 20, Stockholm","189","Lädersätra","12/1/2019 - 12/31/2019, Every day, Daily Average",1110,881,1397
+"473","Frejgatan 20, Stockholm","190","Norra Hägernäs","12/1/2019 - 12/31/2019, Every day, Daily Average",738,569,956
+"473","Frejgatan 20, Stockholm","191","Häggviks centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",927,689,1246
+"473","Frejgatan 20, Stockholm","192","Skarpäng","12/1/2019 - 12/31/2019, Every day, Daily Average",834,712,975
+"473","Frejgatan 20, Stockholm","193","Slammertorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1217,954,1552
+"473","Frejgatan 20, Stockholm","194","Marknadsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",792,642,976
+"473","Frejgatan 20, Stockholm","195","Säby","12/1/2019 - 12/31/2019, Every day, Daily Average",1035,787,1361
+"473","Frejgatan 20, Stockholm","196","Viggbyholms industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",734,626,859
+"473","Frejgatan 20, Stockholm","197","Norra Ellagård","12/1/2019 - 12/31/2019, Every day, Daily Average",836,587,1188
+"473","Frejgatan 20, Stockholm","198","Viggbygärdet","12/1/2019 - 12/31/2019, Every day, Daily Average",681,535,866
+"473","Frejgatan 20, Stockholm","199","Kullagränd","12/1/2019 - 12/31/2019, Every day, Daily Average",788,631,983
+"473","Frejgatan 20, Stockholm","200","Täby centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",801,640,1001
+"473","Frejgatan 20, Stockholm","201","Edsbergs centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",941,718,1231
+"473","Frejgatan 20, Stockholm","202","Klasro","12/1/2019 - 12/31/2019, Every day, Daily Average",824,595,1140
+"473","Frejgatan 20, Stockholm","203","Norra Bergtorp","12/1/2019 - 12/31/2019, Every day, Daily Average",740,581,941
+"473","Frejgatan 20, Stockholm","204","Åva","12/1/2019 - 12/31/2019, Every day, Daily Average",742,595,924
+"473","Frejgatan 20, Stockholm","205","Södra Viggbyholm","12/1/2019 - 12/31/2019, Every day, Daily Average",682,537,865
+"473","Frejgatan 20, Stockholm","206","Berghem","12/1/2019 - 12/31/2019, Every day, Daily Average",1127,903,1406
+"473","Frejgatan 20, Stockholm","207","Västra Ellagård","12/1/2019 - 12/31/2019, Every day, Daily Average",770,651,910
+"473","Frejgatan 20, Stockholm","209","Grindtorp","12/1/2019 - 12/31/2019, Every day, Daily Average",648,499,840
+"473","Frejgatan 20, Stockholm","210","Bergtorps industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",642,502,820
+"473","Frejgatan 20, Stockholm","211","Landsnora","12/1/2019 - 12/31/2019, Every day, Daily Average",938,750,1171
+"473","Frejgatan 20, Stockholm","212","Östra Näsbypark","12/1/2019 - 12/31/2019, Every day, Daily Average",649,498,844
+"473","Frejgatan 20, Stockholm","213","Olovslund","12/1/2019 - 12/31/2019, Every day, Daily Average",1212,962,1525
+"473","Frejgatan 20, Stockholm","214","Södra Ellagård","12/1/2019 - 12/31/2019, Every day, Daily Average",798,640,994
+"473","Frejgatan 20, Stockholm","215","Skälby","12/1/2019 - 12/31/2019, Every day, Daily Average",937,712,1232
+"473","Frejgatan 20, Stockholm","216","Västra Roslags-Näsby","12/1/2019 - 12/31/2019, Every day, Daily Average",702,570,864
+"473","Frejgatan 20, Stockholm","217","Västra Enebyberg","12/1/2019 - 12/31/2019, Every day, Daily Average",649,518,812
+"473","Frejgatan 20, Stockholm","218","Kvarnskogen","12/1/2019 - 12/31/2019, Every day, Daily Average",835,624,1115
+"473","Frejgatan 20, Stockholm","219","Häggviks industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",790,556,1121
+"473","Frejgatan 20, Stockholm","220","Näsbydal","12/1/2019 - 12/31/2019, Every day, Daily Average",645,528,786
+"473","Frejgatan 20, Stockholm","221","Östra Enebyberg","12/1/2019 - 12/31/2019, Every day, Daily Average",655,530,808
+"473","Frejgatan 20, Stockholm","222","Nytorp","12/1/2019 - 12/31/2019, Every day, Daily Average",589,453,765
+"473","Frejgatan 20, Stockholm","223","Sjöberg","12/1/2019 - 12/31/2019, Every day, Daily Average",713,537,946
+"473","Frejgatan 20, Stockholm","224","Norra Akalla","12/1/2019 - 12/31/2019, Every day, Daily Average",772,547,1087
+"473","Frejgatan 20, Stockholm","225","Östra Roslags-Näsby","12/1/2019 - 12/31/2019, Every day, Daily Average",546,413,721
+"473","Frejgatan 20, Stockholm","226","Nytorp","12/1/2019 - 12/31/2019, Every day, Daily Average",922,690,1231
+"473","Frejgatan 20, Stockholm","228","Bogesund","12/1/2019 - 12/31/2019, Every day, Daily Average",1205,1011,1435
+"473","Frejgatan 20, Stockholm","229","Engarn Storäng","12/1/2019 - 12/31/2019, Every day, Daily Average",1385,1172,1635
+"473","Frejgatan 20, Stockholm","231","Turebergs industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",866,677,1107
+"473","Frejgatan 20, Stockholm","232","Näsbyparks centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",756,569,1004
+"473","Frejgatan 20, Stockholm","233","Norra Nibble","12/1/2019 - 12/31/2019, Every day, Daily Average",1177,901,1536
+"473","Frejgatan 20, Stockholm","234","Västra Näsbypark","12/1/2019 - 12/31/2019, Every day, Daily Average",571,443,735
+"473","Frejgatan 20, Stockholm","235","Kullön","12/1/2019 - 12/31/2019, Every day, Daily Average",1358,1150,1603
+"473","Frejgatan 20, Stockholm","236","Töjnan","12/1/2019 - 12/31/2019, Every day, Daily Average",711,499,1012
+"473","Frejgatan 20, Stockholm","237","Örnstigen","12/1/2019 - 12/31/2019, Every day, Daily Average",659,502,864
+"473","Frejgatan 20, Stockholm","239","Kronåsens arbetsomr","12/1/2019 - 12/31/2019, Every day, Daily Average",710,500,1007
+"473","Frejgatan 20, Stockholm","242","Lahäll","12/1/2019 - 12/31/2019, Every day, Daily Average",533,411,690
+"473","Frejgatan 20, Stockholm","244","Skansen","12/1/2019 - 12/31/2019, Every day, Daily Average",824,619,1096
+"473","Frejgatan 20, Stockholm","245","Barkarby Handelsplats Nord","12/1/2019 - 12/31/2019, Every day, Daily Average",985,743,1305
+"473","Frejgatan 20, Stockholm","246","Sollentuna Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",887,657,1196
+"473","Frejgatan 20, Stockholm","247","Bagarby","12/1/2019 - 12/31/2019, Every day, Daily Average",745,591,939
+"473","Frejgatan 20, Stockholm","248","Näsby slott","12/1/2019 - 12/31/2019, Every day, Daily Average",832,622,1112
+"473","Frejgatan 20, Stockholm","250","Danderydsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",530,398,704
+"473","Frejgatan 20, Stockholm","251","Östra Helenelund","12/1/2019 - 12/31/2019, Every day, Daily Average",729,538,986
+"473","Frejgatan 20, Stockholm","252","Södra Nibble","12/1/2019 - 12/31/2019, Every day, Daily Average",1148,882,1493
+"473","Frejgatan 20, Stockholm","254","Norra Viksjö","12/1/2019 - 12/31/2019, Every day, Daily Average",1271,1000,1614
+"473","Frejgatan 20, Stockholm","255","Sätra","12/1/2019 - 12/31/2019, Every day, Daily Average",612,459,814
+"473","Frejgatan 20, Stockholm","256","Norra Djursholm","12/1/2019 - 12/31/2019, Every day, Daily Average",677,465,984
+"473","Frejgatan 20, Stockholm","257","Ekeby","12/1/2019 - 12/31/2019, Every day, Daily Average",505,381,668
+"473","Frejgatan 20, Stockholm","258","Fågelsången","12/1/2019 - 12/31/2019, Every day, Daily Average",655,458,934
+"473","Frejgatan 20, Stockholm","259","Vibblaby","12/1/2019 - 12/31/2019, Every day, Daily Average",1231,938,1614
+"473","Frejgatan 20, Stockholm","260","Jakobsbergs centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",1271,935,1725
+"473","Frejgatan 20, Stockholm","261","Barkarbyfältet","12/1/2019 - 12/31/2019, Every day, Daily Average",896,681,1178
+"473","Frejgatan 20, Stockholm","262","Barkarby Handelsplats Syd","12/1/2019 - 12/31/2019, Every day, Daily Average",920,700,1207
+"473","Frejgatan 20, Stockholm","263","Rinkeby gård","12/1/2019 - 12/31/2019, Every day, Daily Average",431,318,582
+"473","Frejgatan 20, Stockholm","265","Tallbohov","12/1/2019 - 12/31/2019, Every day, Daily Average",1146,855,1535
+"473","Frejgatan 20, Stockholm","266","Västra Helenelund","12/1/2019 - 12/31/2019, Every day, Daily Average",610,424,876
+"473","Frejgatan 20, Stockholm","267","Hammaren","12/1/2019 - 12/31/2019, Every day, Daily Average",1139,861,1505
+"473","Frejgatan 20, Stockholm","268","Centrala Akalla","12/1/2019 - 12/31/2019, Every day, Daily Average",771,573,1036
+"473","Frejgatan 20, Stockholm","269","Östra Vaxön","12/1/2019 - 12/31/2019, Every day, Daily Average",1604,1352,1902
+"473","Frejgatan 20, Stockholm","270","Västra Vaxön","12/1/2019 - 12/31/2019, Every day, Daily Average",1493,1271,1753
+"473","Frejgatan 20, Stockholm","271","Östra Viksjö","12/1/2019 - 12/31/2019, Every day, Daily Average",1152,915,1448
+"473","Frejgatan 20, Stockholm","272","Kista Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",726,535,983
+"473","Frejgatan 20, Stockholm","273","Södra Akalla","12/1/2019 - 12/31/2019, Every day, Daily Average",814,593,1116
+"473","Frejgatan 20, Stockholm","274","Norra Husby","12/1/2019 - 12/31/2019, Every day, Daily Average",786,559,1103
+"473","Frejgatan 20, Stockholm","275","Klockargården","12/1/2019 - 12/31/2019, Every day, Daily Average",598,349,1022
+"473","Frejgatan 20, Stockholm","276","Tegelhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",616,453,836
+"473","Frejgatan 20, Stockholm","278","Västra Veddesta","12/1/2019 - 12/31/2019, Every day, Daily Average",1056,810,1376
+"473","Frejgatan 20, Stockholm","280","Helenelunds centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",578,397,840
+"473","Frejgatan 20, Stockholm","281","Järfälla kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",849,638,1128
+"473","Frejgatan 20, Stockholm","283","Östra Veddesta","12/1/2019 - 12/31/2019, Every day, Daily Average",1016,772,1335
+"473","Frejgatan 20, Stockholm","284","Södra Husby","12/1/2019 - 12/31/2019, Every day, Daily Average",772,573,1038
+"473","Frejgatan 20, Stockholm","285","Nora","12/1/2019 - 12/31/2019, Every day, Daily Average",611,447,834
+"473","Frejgatan 20, Stockholm","288","Kistagången","12/1/2019 - 12/31/2019, Every day, Daily Average",733,565,950
+"473","Frejgatan 20, Stockholm","289","Västra Lund","12/1/2019 - 12/31/2019, Every day, Daily Average",1173,939,1464
+"473","Frejgatan 20, Stockholm","290","Ösby","12/1/2019 - 12/31/2019, Every day, Daily Average",451,316,642
+"473","Frejgatan 20, Stockholm","291","Isafjordsgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",682,495,939
+"473","Frejgatan 20, Stockholm","292","Klingsta","12/1/2019 - 12/31/2019, Every day, Daily Average",504,315,804
+"473","Frejgatan 20, Stockholm","294","Östra Lund","12/1/2019 - 12/31/2019, Every day, Daily Average",1127,895,1418
+"473","Frejgatan 20, Stockholm","295","Östra Silverdal","12/1/2019 - 12/31/2019, Every day, Daily Average",533,408,694
+"473","Frejgatan 20, Stockholm","297","Övre Kista","12/1/2019 - 12/31/2019, Every day, Daily Average",600,426,843
+"473","Frejgatan 20, Stockholm","298","Västra Silverdal","12/1/2019 - 12/31/2019, Every day, Daily Average",512,350,748
+"473","Frejgatan 20, Stockholm","300","Berga","12/1/2019 - 12/31/2019, Every day, Daily Average",481,343,673
+"473","Frejgatan 20, Stockholm","301","Kista Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",696,517,935
+"473","Frejgatan 20, Stockholm","302","Karlsro","12/1/2019 - 12/31/2019, Every day, Daily Average",377,272,521
+"473","Frejgatan 20, Stockholm","303","Södra Djursholm","12/1/2019 - 12/31/2019, Every day, Daily Average",558,407,763
+"473","Frejgatan 20, Stockholm","304","Nedre Kista","12/1/2019 - 12/31/2019, Every day, Daily Average",629,447,884
+"473","Frejgatan 20, Stockholm","306","Barsbro","12/1/2019 - 12/31/2019, Every day, Daily Average",1121,823,1526
+"473","Frejgatan 20, Stockholm","307","Fjällen","12/1/2019 - 12/31/2019, Every day, Daily Average",1177,932,1485
+"473","Frejgatan 20, Stockholm","308","Kymlinge","12/1/2019 - 12/31/2019, Every day, Daily Average",619,442,865
+"473","Frejgatan 20, Stockholm","309","Kevinge","12/1/2019 - 12/31/2019, Every day, Daily Average",496,327,750
+"473","Frejgatan 20, Stockholm","310","Ormbacka","12/1/2019 - 12/31/2019, Every day, Daily Average",1189,892,1584
+"473","Frejgatan 20, Stockholm","311","Ulriksdal","12/1/2019 - 12/31/2019, Every day, Daily Average",407,265,624
+"473","Frejgatan 20, Stockholm","312","Mörby Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",373,248,559
+"473","Frejgatan 20, Stockholm","313","Mörbyskogen","12/1/2019 - 12/31/2019, Every day, Daily Average",331,231,474
+"473","Frejgatan 20, Stockholm","315","Hjulsta","12/1/2019 - 12/31/2019, Every day, Daily Average",798,593,1073
+"473","Frejgatan 20, Stockholm","316","Norra Tensta, Spånga Kyrkväg","12/1/2019 - 12/31/2019, Every day, Daily Average",719,533,969
+"473","Frejgatan 20, Stockholm","317","Norra Sticklinge","12/1/2019 - 12/31/2019, Every day, Daily Average",760,543,1062
+"473","Frejgatan 20, Stockholm","318","Skälby gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1163,872,1549
+"473","Frejgatan 20, Stockholm","319","Lunda","12/1/2019 - 12/31/2019, Every day, Daily Average",1023,742,1409
+"473","Frejgatan 20, Stockholm","320","Norra Stocksund","12/1/2019 - 12/31/2019, Every day, Daily Average",455,307,673
+"473","Frejgatan 20, Stockholm","321","Backlura","12/1/2019 - 12/31/2019, Every day, Daily Average",1306,952,1789
+"473","Frejgatan 20, Stockholm","322","Danderyds sjukhus","12/1/2019 - 12/31/2019, Every day, Daily Average",452,303,672
+"473","Frejgatan 20, Stockholm","323","Södra Sticklinge","12/1/2019 - 12/31/2019, Every day, Daily Average",684,448,1042
+"473","Frejgatan 20, Stockholm","327","Norra Rinkeby, Kvarnby","12/1/2019 - 12/31/2019, Every day, Daily Average",655,476,901
+"473","Frejgatan 20, Stockholm","328","Södra Tensta,Spånga Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",862,676,1098
+"473","Frejgatan 20, Stockholm","331","Skälby","12/1/2019 - 12/31/2019, Every day, Daily Average",1227,947,1588
+"473","Frejgatan 20, Stockholm","335","Södra Stocksund","12/1/2019 - 12/31/2019, Every day, Daily Average",432,293,635
+"473","Frejgatan 20, Stockholm","336","Mörbylund","12/1/2019 - 12/31/2019, Every day, Daily Average",509,325,796
+"473","Frejgatan 20, Stockholm","337","Södra Rinkeby, Knutby","12/1/2019 - 12/31/2019, Every day, Daily Average",728,519,1020
+"473","Frejgatan 20, Stockholm","338","Stora Ursvik","12/1/2019 - 12/31/2019, Every day, Daily Average",718,520,990
+"473","Frejgatan 20, Stockholm","339","Trollboda","12/1/2019 - 12/31/2019, Every day, Daily Average",1348,1002,1812
+"473","Frejgatan 20, Stockholm","340","Elfvik","12/1/2019 - 12/31/2019, Every day, Daily Average",870,645,1172
+"473","Frejgatan 20, Stockholm","341","Inverness","12/1/2019 - 12/31/2019, Every day, Daily Average",286,195,417
+"473","Frejgatan 20, Stockholm","342","Norra Bergshamra","12/1/2019 - 12/31/2019, Every day, Daily Average",463,276,774
+"473","Frejgatan 20, Stockholm","344","Bergshamra torg","12/1/2019 - 12/31/2019, Every day, Daily Average",426,235,770
+"473","Frejgatan 20, Stockholm","345","Norra Bromsten","12/1/2019 - 12/31/2019, Every day, Daily Average",766,551,1063
+"473","Frejgatan 20, Stockholm","346","Spånga Industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1065,803,1411
+"473","Frejgatan 20, Stockholm","347","Solhems Villastad Väst","12/1/2019 - 12/31/2019, Every day, Daily Average",1115,846,1469
+"473","Frejgatan 20, Stockholm","348","Kälvesta","12/1/2019 - 12/31/2019, Every day, Daily Average",1126,851,1489
+"473","Frejgatan 20, Stockholm","350","Kungshamra","12/1/2019 - 12/31/2019, Every day, Daily Average",444,316,622
+"473","Frejgatan 20, Stockholm","351","Ursviks småhusområde","12/1/2019 - 12/31/2019, Every day, Daily Average",623,449,863
+"473","Frejgatan 20, Stockholm","352","Stocksundstorp","12/1/2019 - 12/31/2019, Every day, Daily Average",251,165,380
+"473","Frejgatan 20, Stockholm","353","Bo","12/1/2019 - 12/31/2019, Every day, Daily Average",659,467,928
+"473","Frejgatan 20, Stockholm","354","Spånga Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",1020,761,1365
+"473","Frejgatan 20, Stockholm","355","Solhems Villastad Nord","12/1/2019 - 12/31/2019, Every day, Daily Average",1001,788,1270
+"473","Frejgatan 20, Stockholm","356","Rudboda","12/1/2019 - 12/31/2019, Every day, Daily Average",700,533,917
+"473","Frejgatan 20, Stockholm","357","Spånga Gymnasium","12/1/2019 - 12/31/2019, Every day, Daily Average",1028,787,1341
+"473","Frejgatan 20, Stockholm","358","Västra Ritorp","12/1/2019 - 12/31/2019, Every day, Daily Average",474,322,695
+"473","Frejgatan 20, Stockholm","359","Rissne norra arbetsområde","12/1/2019 - 12/31/2019, Every day, Daily Average",783,565,1084
+"473","Frejgatan 20, Stockholm","360","Bo Gärde","12/1/2019 - 12/31/2019, Every day, Daily Average",639,441,923
+"473","Frejgatan 20, Stockholm","361","Ör","12/1/2019 - 12/31/2019, Every day, Daily Average",629,443,891
+"473","Frejgatan 20, Stockholm","362","Södra Bergshamra","12/1/2019 - 12/31/2019, Every day, Daily Average",443,262,746
+"473","Frejgatan 20, Stockholm","364","Östra Bergshamra","12/1/2019 - 12/31/2019, Every day, Daily Average",517,249,1071
+"473","Frejgatan 20, Stockholm","365","Hallonbergens arbetsområde","12/1/2019 - 12/31/2019, Every day, Daily Average",639,459,888
+"473","Frejgatan 20, Stockholm","366","Östra Näset","12/1/2019 - 12/31/2019, Every day, Daily Average",606,393,932
+"473","Frejgatan 20, Stockholm","367","Västra Näset","12/1/2019 - 12/31/2019, Every day, Daily Average",620,447,859
+"473","Frejgatan 20, Stockholm","368","Norra Rissne","12/1/2019 - 12/31/2019, Every day, Daily Average",797,590,1076
+"473","Frejgatan 20, Stockholm","369","Smedshagen","12/1/2019 - 12/31/2019, Every day, Daily Average",1478,1065,2049
+"473","Frejgatan 20, Stockholm","370","Islinge","12/1/2019 - 12/31/2019, Every day, Daily Average",519,322,834
+"473","Frejgatan 20, Stockholm","371","Råstahem","12/1/2019 - 12/31/2019, Every day, Daily Average",771,522,1137
+"473","Frejgatan 20, Stockholm","372","Hässelby Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",1461,1101,1938
+"473","Frejgatan 20, Stockholm","374","Östra Ritorp","12/1/2019 - 12/31/2019, Every day, Daily Average",463,304,704
+"473","Frejgatan 20, Stockholm","375","Sundby","12/1/2019 - 12/31/2019, Every day, Daily Average",874,664,1150
+"473","Frejgatan 20, Stockholm","376","Norra Vinsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1290,1007,1651
+"473","Frejgatan 20, Stockholm","377","Frösundavik","12/1/2019 - 12/31/2019, Every day, Daily Average",322,201,515
+"473","Frejgatan 20, Stockholm","378","Bangården","12/1/2019 - 12/31/2019, Every day, Daily Average",633,413,969
+"473","Frejgatan 20, Stockholm","379","Hallonbergen","12/1/2019 - 12/31/2019, Every day, Daily Average",750,560,1003
+"473","Frejgatan 20, Stockholm","380","Ekhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",288,189,438
+"473","Frejgatan 20, Stockholm","381","Nälsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1145,880,1488
+"473","Frejgatan 20, Stockholm","382","Logvägen (Erland)","12/1/2019 - 12/31/2019, Every day, Daily Average",941,705,1254
+"473","Frejgatan 20, Stockholm","383","Södra Bromsten N","12/1/2019 - 12/31/2019, Every day, Daily Average",811,590,1113
+"473","Frejgatan 20, Stockholm","384","Rissne södra arbetsområde","12/1/2019 - 12/31/2019, Every day, Daily Average",988,727,1341
+"473","Frejgatan 20, Stockholm","385","Stora Skuggan","12/1/2019 - 12/31/2019, Every day, Daily Average",374,122,1140
+"473","Frejgatan 20, Stockholm","387","Södra Rissne","12/1/2019 - 12/31/2019, Every day, Daily Average",936,708,1237
+"473","Frejgatan 20, Stockholm","388","Frescati","12/1/2019 - 12/31/2019, Every day, Daily Average",171,104,279
+"473","Frejgatan 20, Stockholm","389","Björnbo","12/1/2019 - 12/31/2019, Every day, Daily Average",620,455,843
+"473","Frejgatan 20, Stockholm","390","Duvbo","12/1/2019 - 12/31/2019, Every day, Daily Average",913,663,1256
+"473","Frejgatan 20, Stockholm","393","Södra Bromsten S","12/1/2019 - 12/31/2019, Every day, Daily Average",803,605,1064
+"473","Frejgatan 20, Stockholm","394","Norra Hersby","12/1/2019 - 12/31/2019, Every day, Daily Average",525,363,757
+"473","Frejgatan 20, Stockholm","395","Södra Vinsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1253,990,1585
+"473","Frejgatan 20, Stockholm","396","Flysta","12/1/2019 - 12/31/2019, Every day, Daily Average",1025,785,1336
+"473","Frejgatan 20, Stockholm","397","Lötsjö","12/1/2019 - 12/31/2019, Every day, Daily Average",719,476,1084
+"473","Frejgatan 20, Stockholm","398","Stureplatån","12/1/2019 - 12/31/2019, Every day, Daily Average",459,294,714
+"473","Frejgatan 20, Stockholm","401","Råsunda kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",501,339,739
+"473","Frejgatan 20, Stockholm","402","Norra Vällingby","12/1/2019 - 12/31/2019, Every day, Daily Average",1261,974,1631
+"473","Frejgatan 20, Stockholm","403","Stockby","12/1/2019 - 12/31/2019, Every day, Daily Average",665,472,936
+"473","Frejgatan 20, Stockholm","404","Storskogen","12/1/2019 - 12/31/2019, Every day, Daily Average",611,459,812
+"473","Frejgatan 20, Stockholm","405","Norra Vasalund","12/1/2019 - 12/31/2019, Every day, Daily Average",442,281,694
+"473","Frejgatan 20, Stockholm","406","Hässelby Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",1323,1122,1559
+"473","Frejgatan 20, Stockholm","407","Tule","12/1/2019 - 12/31/2019, Every day, Daily Average",642,484,850
+"473","Frejgatan 20, Stockholm","408","Hersbyholm","12/1/2019 - 12/31/2019, Every day, Daily Average",610,393,945
+"473","Frejgatan 20, Stockholm","409","Bredablick","12/1/2019 - 12/31/2019, Every day, Daily Average",536,356,806
+"473","Frejgatan 20, Stockholm","410","Lidingö centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",439,282,681
+"473","Frejgatan 20, Stockholm","411","Bällsta","12/1/2019 - 12/31/2019, Every day, Daily Average",957,708,1293
+"473","Frejgatan 20, Stockholm","412","Södra Vällingby","12/1/2019 - 12/31/2019, Every day, Daily Average",1216,980,1508
+"473","Frejgatan 20, Stockholm","413","Haga","12/1/2019 - 12/31/2019, Every day, Daily Average",193,99,374
+"473","Frejgatan 20, Stockholm","414","Filmstaden","12/1/2019 - 12/31/2019, Every day, Daily Average",525,375,733
+"473","Frejgatan 20, Stockholm","415","Starrbäcksgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",760,521,1108
+"473","Frejgatan 20, Stockholm","416","Södra Hersby","12/1/2019 - 12/31/2019, Every day, Daily Average",457,310,672
+"473","Frejgatan 20, Stockholm","417","Torsviksplatån","12/1/2019 - 12/31/2019, Every day, Daily Average",497,277,889
+"473","Frejgatan 20, Stockholm","418","Gåshaga","12/1/2019 - 12/31/2019, Every day, Daily Average",944,727,1224
+"473","Frejgatan 20, Stockholm","419","Killinge","12/1/2019 - 12/31/2019, Every day, Daily Average",864,681,1095
+"473","Frejgatan 20, Stockholm","420","Kil","12/1/2019 - 12/31/2019, Every day, Daily Average",1640,1294,2077
+"473","Frejgatan 20, Stockholm","422","Hästhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",914,704,1185
+"473","Frejgatan 20, Stockholm","423","Sundbybergs Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",688,493,959
+"473","Frejgatan 20, Stockholm","424","Skogskrönet","12/1/2019 - 12/31/2019, Every day, Daily Average",538,374,773
+"473","Frejgatan 20, Stockholm","425","Torsviks Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",363,233,563
+"473","Frejgatan 20, Stockholm","426","Södra Vasalund","12/1/2019 - 12/31/2019, Every day, Daily Average",431,262,706
+"473","Frejgatan 20, Stockholm","427","Råsundaskolan","12/1/2019 - 12/31/2019, Every day, Daily Average",500,353,707
+"473","Frejgatan 20, Stockholm","428","Charlottenburg","12/1/2019 - 12/31/2019, Every day, Daily Average",443,304,645
+"473","Frejgatan 20, Stockholm","429","Mariehäll","12/1/2019 - 12/31/2019, Every day, Daily Average",887,680,1156
+"473","Frejgatan 20, Stockholm","430","Södra Hässelby Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1301,1040,1626
+"473","Frejgatan 20, Stockholm","431","Sundbybergs industriområde","12/1/2019 - 12/31/2019, Every day, Daily Average",824,650,1043
+"473","Frejgatan 20, Stockholm","432","Herserud","12/1/2019 - 12/31/2019, Every day, Daily Average",421,289,612
+"473","Frejgatan 20, Stockholm","433","Råsten","12/1/2019 - 12/31/2019, Every day, Daily Average",622,441,876
+"473","Frejgatan 20, Stockholm","435","Blåkulla","12/1/2019 - 12/31/2019, Every day, Daily Average",374,236,592
+"473","Frejgatan 20, Stockholm","437","Beckomberga","12/1/2019 - 12/31/2019, Every day, Daily Average",1203,939,1540
+"473","Frejgatan 20, Stockholm","439","Värtaverket 3","12/1/2019 - 12/31/2019, Every day, Daily Average",348,186,647
+"473","Frejgatan 20, Stockholm","441","Grimsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1154,928,1434
+"473","Frejgatan 20, Stockholm","442","Hallen","12/1/2019 - 12/31/2019, Every day, Daily Average",581,399,844
+"473","Frejgatan 20, Stockholm","443","Västra Råcksta","12/1/2019 - 12/31/2019, Every day, Daily Average",1244,974,1588
+"473","Frejgatan 20, Stockholm","444","Norra Begravningsplatsen","12/1/2019 - 12/31/2019, Every day, Daily Average",239,130,436
+"473","Frejgatan 20, Stockholm","445","Rudviken","12/1/2019 - 12/31/2019, Every day, Daily Average",339,231,495
+"473","Frejgatan 20, Stockholm","446","Värtahamnen 1","12/1/2019 - 12/31/2019, Every day, Daily Average",316,180,552
+"473","Frejgatan 20, Stockholm","447","Eneby","12/1/2019 - 12/31/2019, Every day, Daily Average",1147,895,1468
+"473","Frejgatan 20, Stockholm","449","Lilla Alby","12/1/2019 - 12/31/2019, Every day, Daily Average",717,557,921
+"473","Frejgatan 20, Stockholm","450","Solna Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",466,328,661
+"473","Frejgatan 20, Stockholm","451","Ekensberg","12/1/2019 - 12/31/2019, Every day, Daily Average",545,405,732
+"473","Frejgatan 20, Stockholm","452","Solna Business Park","12/1/2019 - 12/31/2019, Every day, Daily Average",607,454,810
+"473","Frejgatan 20, Stockholm","453","Mosstorp","12/1/2019 - 12/31/2019, Every day, Daily Average",487,330,716
+"473","Frejgatan 20, Stockholm","454","Skytteholm","12/1/2019 - 12/31/2019, Every day, Daily Average",544,403,732
+"473","Frejgatan 20, Stockholm","455","Norra Gångsätra","12/1/2019 - 12/31/2019, Every day, Daily Average",703,490,1008
+"473","Frejgatan 20, Stockholm","456","Bromma Flygplats V","12/1/2019 - 12/31/2019, Every day, Daily Average",1002,727,1379
+"473","Frejgatan 20, Stockholm","457","Albano","12/1/2019 - 12/31/2019, Every day, Daily Average",87,44,168
+"473","Frejgatan 20, Stockholm","458","Hagalunds arbetsplatsomr","12/1/2019 - 12/31/2019, Every day, Daily Average",321,215,478
+"473","Frejgatan 20, Stockholm","459","Centrala Käppala","12/1/2019 - 12/31/2019, Every day, Daily Average",868,695,1082
+"473","Frejgatan 20, Stockholm","460","Råcksta Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1139,883,1468
+"473","Frejgatan 20, Stockholm","461","Baggeby","12/1/2019 - 12/31/2019, Every day, Daily Average",491,351,686
+"473","Frejgatan 20, Stockholm","462","Centrala Hjorthagen","12/1/2019 - 12/31/2019, Every day, Daily Average",342,163,713
+"473","Frejgatan 20, Stockholm","463","Centrala Gångsätra","12/1/2019 - 12/31/2019, Every day, Daily Average",557,398,779
+"473","Frejgatan 20, Stockholm","464","Östra Käppala","12/1/2019 - 12/31/2019, Every day, Daily Average",935,722,1209
+"473","Frejgatan 20, Stockholm","465","Hanneberg","12/1/2019 - 12/31/2019, Every day, Daily Average",377,260,544
+"473","Frejgatan 20, Stockholm","467","Bromma Flygplats N","12/1/2019 - 12/31/2019, Every day, Daily Average",1110,860,1431
+"473","Frejgatan 20, Stockholm","468","Bällstahamnen","12/1/2019 - 12/31/2019, Every day, Daily Average",951,718,1259
+"473","Frejgatan 20, Stockholm","469","Albydal","12/1/2019 - 12/31/2019, Every day, Daily Average",352,238,520
+"473","Frejgatan 20, Stockholm","470","Albygård","12/1/2019 - 12/31/2019, Every day, Daily Average",452,314,649
+"473","Frejgatan 20, Stockholm","471","Solna Strand","12/1/2019 - 12/31/2019, Every day, Daily Average",663,505,869
+"473","Frejgatan 20, Stockholm","472","Bromma Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",1094,869,1375
+"473","Frejgatan 20, Stockholm","473","Vanadislunden","12/1/2019 - 12/31/2019, Every day, Daily Average",297,80,1098
+"473","Frejgatan 20, Stockholm","474","Lill-Jansskogen V","12/1/2019 - 12/31/2019, Every day, Daily Average",215,79,578
+"473","Frejgatan 20, Stockholm","475","Huvudstafältet","12/1/2019 - 12/31/2019, Every day, Daily Average",659,473,917
+"473","Frejgatan 20, Stockholm","476","Roslagstulls sjukhus","12/1/2019 - 12/31/2019, Every day, Daily Average",102,34,302
+"473","Frejgatan 20, Stockholm","477","Kottla Mölna Kappsta","12/1/2019 - 12/31/2019, Every day, Daily Average",674,493,920
+"473","Frejgatan 20, Stockholm","478","Bodal","12/1/2019 - 12/31/2019, Every day, Daily Average",545,324,914
+"473","Frejgatan 20, Stockholm","479","Brevik","12/1/2019 - 12/31/2019, Every day, Daily Average",845,647,1103
+"473","Frejgatan 20, Stockholm","480","Gamla Huvusta","12/1/2019 - 12/31/2019, Every day, Daily Average",528,360,773
+"473","Frejgatan 20, Stockholm","481","Runstensplan","12/1/2019 - 12/31/2019, Every day, Daily Average",1168,904,1509
+"473","Frejgatan 20, Stockholm","482","Karolinska sjukhuset","12/1/2019 - 12/31/2019, Every day, Daily Average",239,97,583
+"473","Frejgatan 20, Stockholm","483","Lovö glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1396,1124,1732
+"473","Frejgatan 20, Stockholm","484","Karlbergs Slott","12/1/2019 - 12/31/2019, Every day, Daily Average",354,172,727
+"473","Frejgatan 20, Stockholm","485","Högberga","12/1/2019 - 12/31/2019, Every day, Daily Average",797,602,1054
+"473","Frejgatan 20, Stockholm","486","Södra Riksby","12/1/2019 - 12/31/2019, Every day, Daily Average",856,644,1136
+"473","Frejgatan 20, Stockholm","487","Lill-Jansskogen Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",424,188,951
+"473","Frejgatan 20, Stockholm","488","Södra Huvusta","12/1/2019 - 12/31/2019, Every day, Daily Average",639,427,954
+"473","Frejgatan 20, Stockholm","489","Larsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",545,393,755
+"473","Frejgatan 20, Stockholm","490","Karolinska institutet","12/1/2019 - 12/31/2019, Every day, Daily Average",314,144,680
+"473","Frejgatan 20, Stockholm","491","Wenner Gren Center","12/1/2019 - 12/31/2019, Every day, Daily Average",94,30,292
+"473","Frejgatan 20, Stockholm","492","Norrtull","12/1/2019 - 12/31/2019, Every day, Daily Average",92,45,185
+"473","Frejgatan 20, Stockholm","494","Norra Station 1","12/1/2019 - 12/31/2019, Every day, Daily Average",234,102,536
+"473","Frejgatan 20, Stockholm","495","Roslagstull","12/1/2019 - 12/31/2019, Every day, Daily Average",80,33,190
+"473","Frejgatan 20, Stockholm","496","Jungfrudansen","12/1/2019 - 12/31/2019, Every day, Daily Average",704,525,943
+"473","Frejgatan 20, Stockholm","497","Blackeberg","12/1/2019 - 12/31/2019, Every day, Daily Average",1108,866,1417
+"473","Frejgatan 20, Stockholm","498","Östra Station","12/1/2019 - 12/31/2019, Every day, Daily Average",202,77,527
+"473","Frejgatan 20, Stockholm","499","Smedsbacken","12/1/2019 - 12/31/2019, Every day, Daily Average",428,221,826
+"473","Frejgatan 20, Stockholm","500","Ängbylunden","12/1/2019 - 12/31/2019, Every day, Daily Average",1065,829,1367
+"473","Frejgatan 20, Stockholm","503","Centralgaraget","12/1/2019 - 12/31/2019, Every day, Daily Average",101,32,315
+"473","Frejgatan 20, Stockholm","504","Centrala Skärsätra","12/1/2019 - 12/31/2019, Every day, Daily Average",648,496,846
+"473","Frejgatan 20, Stockholm","505","Tre Liljor","12/1/2019 - 12/31/2019, Every day, Daily Average",185,90,378
+"473","Frejgatan 20, Stockholm","506","Kampementsbacken","12/1/2019 - 12/31/2019, Every day, Daily Average",457,259,804
+"473","Frejgatan 20, Stockholm","508","Hästgardet","12/1/2019 - 12/31/2019, Every day, Daily Average",407,203,812
+"473","Frejgatan 20, Stockholm","509","Aga","12/1/2019 - 12/31/2019, Every day, Daily Average",598,450,793
+"473","Frejgatan 20, Stockholm","510","Johannesfred","12/1/2019 - 12/31/2019, Every day, Daily Average",833,626,1107
+"473","Frejgatan 20, Stockholm","511","Frihamnen","12/1/2019 - 12/31/2019, Every day, Daily Average",494,293,831
+"473","Frejgatan 20, Stockholm","512","Öregrundsgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",436,243,780
+"473","Frejgatan 20, Stockholm","513","Västra skogen","12/1/2019 - 12/31/2019, Every day, Daily Average",815,522,1271
+"473","Frejgatan 20, Stockholm","514","Olaus Petri Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",393,212,727
+"473","Frejgatan 20, Stockholm","515","Matteuskyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",196,88,435
+"473","Frejgatan 20, Stockholm","516","Surbrunnsområdet","12/1/2019 - 12/31/2019, Every day, Daily Average",78,31,194
+"473","Frejgatan 20, Stockholm","518","Lärkstaden","12/1/2019 - 12/31/2019, Every day, Daily Average",155,83,288
+"473","Frejgatan 20, Stockholm","519","Ättehagen","12/1/2019 - 12/31/2019, Every day, Daily Average",988,764,1276
+"473","Frejgatan 20, Stockholm","520","Polstjärnan","12/1/2019 - 12/31/2019, Every day, Daily Average",137,63,296
+"473","Frejgatan 20, Stockholm","523","Tessinparken","12/1/2019 - 12/31/2019, Every day, Daily Average",438,247,775
+"473","Frejgatan 20, Stockholm","524","Danderydsplan V","12/1/2019 - 12/31/2019, Every day, Daily Average",202,118,345
+"473","Frejgatan 20, Stockholm","525","Norra Real","12/1/2019 - 12/31/2019, Every day, Daily Average",127,47,336
+"473","Frejgatan 20, Stockholm","526","Rödaberget","12/1/2019 - 12/31/2019, Every day, Daily Average",302,188,484
+"473","Frejgatan 20, Stockholm","527","Gustav Vasa Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",209,117,372
+"473","Frejgatan 20, Stockholm","528","Danderydsplan Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",218,134,353
+"473","Frejgatan 20, Stockholm","529","Birkagården","12/1/2019 - 12/31/2019, Every day, Daily Average",328,140,763
+"473","Frejgatan 20, Stockholm","530","Tegeludden","12/1/2019 - 12/31/2019, Every day, Daily Average",495,295,829
+"473","Frejgatan 20, Stockholm","532","Mensättra","12/1/2019 - 12/31/2019, Every day, Daily Average",1583,1235,2027
+"473","Frejgatan 20, Stockholm","533","Hälsingehöjden","12/1/2019 - 12/31/2019, Every day, Daily Average",285,175,462
+"473","Frejgatan 20, Stockholm","534","Betlehemskyrkan","12/1/2019 - 12/31/2019, Every day, Daily Average",129,51,324
+"473","Frejgatan 20, Stockholm","535","Stureparken V","12/1/2019 - 12/31/2019, Every day, Daily Average",257,150,437
+"473","Frejgatan 20, Stockholm","536","Färjestadsvägen V","12/1/2019 - 12/31/2019, Every day, Daily Average",1036,799,1341
+"473","Frejgatan 20, Stockholm","537","Åkeshovsbadet","12/1/2019 - 12/31/2019, Every day, Daily Average",945,719,1241
+"473","Frejgatan 20, Stockholm","539","Stureparken Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",274,165,453
+"473","Frejgatan 20, Stockholm","540","Observatorielunden","12/1/2019 - 12/31/2019, Every day, Daily Average",201,97,414
+"473","Frejgatan 20, Stockholm","541","Fågelberget","12/1/2019 - 12/31/2019, Every day, Daily Average",567,328,977
+"473","Frejgatan 20, Stockholm","542","Norra Traneberg","12/1/2019 - 12/31/2019, Every day, Daily Average",664,539,816
+"473","Frejgatan 20, Stockholm","543","Tyskbagarområdet","12/1/2019 - 12/31/2019, Every day, Daily Average",305,196,473
+"473","Frejgatan 20, Stockholm","545","Eriksberg","12/1/2019 - 12/31/2019, Every day, Daily Average",261,151,450
+"473","Frejgatan 20, Stockholm","546","Rörstrand","12/1/2019 - 12/31/2019, Every day, Daily Average",441,210,923
+"473","Frejgatan 20, Stockholm","547","Elverket","12/1/2019 - 12/31/2019, Every day, Daily Average",228,127,409
+"473","Frejgatan 20, Stockholm","548","Observatoriegatan","12/1/2019 - 12/31/2019, Every day, Daily Average",374,232,602
+"473","Frejgatan 20, Stockholm","549","Ulvsunda","12/1/2019 - 12/31/2019, Every day, Daily Average",776,546,1102
+"473","Frejgatan 20, Stockholm","553","S:t Eriksplan","12/1/2019 - 12/31/2019, Every day, Daily Average",409,228,733
+"473","Frejgatan 20, Stockholm","554","Sjökatten","12/1/2019 - 12/31/2019, Every day, Daily Average",316,171,583
+"473","Frejgatan 20, Stockholm","556","Humlegården V","12/1/2019 - 12/31/2019, Every day, Daily Average",339,192,597
+"473","Frejgatan 20, Stockholm","557","Ladugårdsgärdet","12/1/2019 - 12/31/2019, Every day, Daily Average",595,338,1044
+"473","Frejgatan 20, Stockholm","558","Karlaplan","12/1/2019 - 12/31/2019, Every day, Daily Average",337,211,535
+"473","Frejgatan 20, Stockholm","559","Eriksvik","12/1/2019 - 12/31/2019, Every day, Daily Average",1574,1221,2028
+"473","Frejgatan 20, Stockholm","560","Gustav Adolfskyrkan V","12/1/2019 - 12/31/2019, Every day, Daily Average",384,244,602
+"473","Frejgatan 20, Stockholm","561","Saltmätargatan","12/1/2019 - 12/31/2019, Every day, Daily Average",307,172,546
+"473","Frejgatan 20, Stockholm","562","Sabbatsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",439,277,693
+"473","Frejgatan 20, Stockholm","564","Brunnsgatan N","12/1/2019 - 12/31/2019, Every day, Daily Average",231,137,388
+"473","Frejgatan 20, Stockholm","565","Johannes Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",376,224,629
+"473","Frejgatan 20, Stockholm","567","Östra Hornsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",397,221,711
+"473","Frejgatan 20, Stockholm","568","Humlegården Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",349,205,592
+"473","Frejgatan 20, Stockholm","569","Kungssten","12/1/2019 - 12/31/2019, Every day, Daily Average",435,269,701
+"473","Frejgatan 20, Stockholm","570","Östermalmstorg","12/1/2019 - 12/31/2019, Every day, Daily Average",377,236,601
+"473","Frejgatan 20, Stockholm","571","Nockebyhov","12/1/2019 - 12/31/2019, Every day, Daily Average",998,753,1321
+"473","Frejgatan 20, Stockholm","573","Västra Hornsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",399,229,693
+"473","Frejgatan 20, Stockholm","574","Skandiahuset","12/1/2019 - 12/31/2019, Every day, Daily Average",382,218,668
+"473","Frejgatan 20, Stockholm","575","Färjestadsvägen Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",997,762,1303
+"473","Frejgatan 20, Stockholm","576","Gustav Adolfskyrkan Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",504,313,809
+"473","Frejgatan 20, Stockholm","578","Östra Stadshagen","12/1/2019 - 12/31/2019, Every day, Daily Average",636,409,988
+"473","Frejgatan 20, Stockholm","579","Åkeshov","12/1/2019 - 12/31/2019, Every day, Daily Average",968,730,1282
+"473","Frejgatan 20, Stockholm","580","Västra Kristineberg","12/1/2019 - 12/31/2019, Every day, Daily Average",468,272,802
+"473","Frejgatan 20, Stockholm","581","Orminge","12/1/2019 - 12/31/2019, Every day, Daily Average",1671,1264,2207
+"473","Frejgatan 20, Stockholm","582","Tandläkarhögskolan","12/1/2019 - 12/31/2019, Every day, Daily Average",341,205,566
+"473","Frejgatan 20, Stockholm","583","Kronkvarnen","12/1/2019 - 12/31/2019, Every day, Daily Average",396,269,581
+"473","Frejgatan 20, Stockholm","584","Atlasområdet","12/1/2019 - 12/31/2019, Every day, Daily Average",533,256,1107
+"473","Frejgatan 20, Stockholm","585","Alströmergatan","12/1/2019 - 12/31/2019, Every day, Daily Average",582,379,891
+"473","Frejgatan 20, Stockholm","586","Historiska Muséet","12/1/2019 - 12/31/2019, Every day, Daily Average",444,301,654
+"473","Frejgatan 20, Stockholm","587","Adolf Fredriks Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",375,228,616
+"473","Frejgatan 20, Stockholm","588","Tegnerlunden","12/1/2019 - 12/31/2019, Every day, Daily Average",491,315,763
+"473","Frejgatan 20, Stockholm","589","Diplomatstaden","12/1/2019 - 12/31/2019, Every day, Daily Average",622,390,990
+"473","Frejgatan 20, Stockholm","590","Skvalberget","12/1/2019 - 12/31/2019, Every day, Daily Average",413,260,654
+"473","Frejgatan 20, Stockholm","591","Oscarskyrkan","12/1/2019 - 12/31/2019, Every day, Daily Average",596,382,929
+"473","Frejgatan 20, Stockholm","592","Stureplan V","12/1/2019 - 12/31/2019, Every day, Daily Average",371,231,594
+"473","Frejgatan 20, Stockholm","593","Brunnsgatan S","12/1/2019 - 12/31/2019, Every day, Daily Average",433,268,699
+"473","Frejgatan 20, Stockholm","594","Garnisonen","12/1/2019 - 12/31/2019, Every day, Daily Average",611,392,950
+"473","Frejgatan 20, Stockholm","595","Stureplan Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",417,279,621
+"473","Frejgatan 20, Stockholm","596","Oxtorget","12/1/2019 - 12/31/2019, Every day, Daily Average",497,301,819
+"473","Frejgatan 20, Stockholm","597","Norra Bantorget Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",575,382,864
+"473","Frejgatan 20, Stockholm","598","Södra Traneberg","12/1/2019 - 12/31/2019, Every day, Daily Average",662,452,967
+"473","Frejgatan 20, Stockholm","599","S:t Eriksgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",493,326,743
+"473","Frejgatan 20, Stockholm","601","Drottningholm","12/1/2019 - 12/31/2019, Every day, Daily Average",1183,903,1548
+"473","Frejgatan 20, Stockholm","602","Östermalmshallen","12/1/2019 - 12/31/2019, Every day, Daily Average",547,352,848
+"473","Frejgatan 20, Stockholm","604","Hötorget","12/1/2019 - 12/31/2019, Every day, Daily Average",459,282,745
+"473","Frejgatan 20, Stockholm","605","Dramatiska teatern","12/1/2019 - 12/31/2019, Every day, Daily Average",642,414,993
+"473","Frejgatan 20, Stockholm","606","Norrlandsgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",508,316,815
+"473","Frejgatan 20, Stockholm","607","S:t Eriks Sjukhus","12/1/2019 - 12/31/2019, Every day, Daily Average",659,423,1026
+"473","Frejgatan 20, Stockholm","608","S:t Görans Sjukhus","12/1/2019 - 12/31/2019, Every day, Daily Average",552,335,906
+"473","Frejgatan 20, Stockholm","609","Hedvig Eleonora Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",591,385,905
+"473","Frejgatan 20, Stockholm","610","Östra Åkeslund","12/1/2019 - 12/31/2019, Every day, Daily Average",911,740,1120
+"473","Frejgatan 20, Stockholm","611","Norra Bantorget V","12/1/2019 - 12/31/2019, Every day, Daily Average",558,295,1055
+"473","Frejgatan 20, Stockholm","612","Oscarsteatern","12/1/2019 - 12/31/2019, Every day, Daily Average",641,402,1020
+"473","Frejgatan 20, Stockholm","613","Norra Abrahamsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",871,667,1136
+"473","Frejgatan 20, Stockholm","614","Strandvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",584,397,858
+"473","Frejgatan 20, Stockholm","616","Tekniska Nämndhuset","12/1/2019 - 12/31/2019, Every day, Daily Average",599,372,963
+"473","Frejgatan 20, Stockholm","617","Hötorgscity","12/1/2019 - 12/31/2019, Every day, Daily Average",498,319,776
+"473","Frejgatan 20, Stockholm","618","Alvik","12/1/2019 - 12/31/2019, Every day, Daily Average",719,503,1027
+"473","Frejgatan 20, Stockholm","619","Fridhemsplan","12/1/2019 - 12/31/2019, Every day, Daily Average",571,386,842
+"473","Frejgatan 20, Stockholm","620","Norrmalmstorg","12/1/2019 - 12/31/2019, Every day, Daily Average",618,407,936
+"473","Frejgatan 20, Stockholm","621","Thorildsplan","12/1/2019 - 12/31/2019, Every day, Daily Average",475,279,806
+"473","Frejgatan 20, Stockholm","622","Stora Mossen","12/1/2019 - 12/31/2019, Every day, Daily Average",882,626,1242
+"473","Frejgatan 20, Stockholm","623","Centralstationen N","12/1/2019 - 12/31/2019, Every day, Daily Average",623,339,1143
+"473","Frejgatan 20, Stockholm","624","Sergels Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",542,347,846
+"473","Frejgatan 20, Stockholm","625","Wargentinsgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",663,403,1090
+"473","Frejgatan 20, Stockholm","626","Centralposten","12/1/2019 - 12/31/2019, Every day, Daily Average",706,460,1082
+"473","Frejgatan 20, Stockholm","629","Lindhagensplan","12/1/2019 - 12/31/2019, Every day, Daily Average",577,358,927
+"473","Frejgatan 20, Stockholm","630","Gustavsvik","12/1/2019 - 12/31/2019, Every day, Daily Average",1554,1212,1991
+"473","Frejgatan 20, Stockholm","631","Kungsträdgården","12/1/2019 - 12/31/2019, Every day, Daily Average",657,433,995
+"473","Frejgatan 20, Stockholm","633","Blasieholmen","12/1/2019 - 12/31/2019, Every day, Daily Average",721,490,1059
+"473","Frejgatan 20, Stockholm","634","Brunkeberg","12/1/2019 - 12/31/2019, Every day, Daily Average",563,359,880
+"473","Frejgatan 20, Stockholm","635","Kronoberg","12/1/2019 - 12/31/2019, Every day, Daily Average",681,470,986
+"473","Frejgatan 20, Stockholm","636","Gallerian","12/1/2019 - 12/31/2019, Every day, Daily Average",623,397,977
+"473","Frejgatan 20, Stockholm","637","Källvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",1518,1163,1980
+"473","Frejgatan 20, Stockholm","638","Kungsbroplan","12/1/2019 - 12/31/2019, Every day, Daily Average",646,405,1029
+"473","Frejgatan 20, Stockholm","639","Fredhäll","12/1/2019 - 12/31/2019, Every day, Daily Average",503,300,841
+"473","Frejgatan 20, Stockholm","640","Södra Gustavsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",1757,1393,2215
+"473","Frejgatan 20, Stockholm","641","Klara Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",614,399,943
+"473","Frejgatan 20, Stockholm","642","Södra Abrahamsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",941,694,1274
+"473","Frejgatan 20, Stockholm","643","Djurgårdsstaden","12/1/2019 - 12/31/2019, Every day, Daily Average",669,481,929
+"473","Frejgatan 20, Stockholm","644","Södra Djurgården","12/1/2019 - 12/31/2019, Every day, Daily Average",916,625,1340
+"473","Frejgatan 20, Stockholm","645","Kungsklippan","12/1/2019 - 12/31/2019, Every day, Daily Average",686,435,1079
+"473","Frejgatan 20, Stockholm","646","Hemmet","12/1/2019 - 12/31/2019, Every day, Daily Average",716,467,1096
+"473","Frejgatan 20, Stockholm","647","Nyckelviken","12/1/2019 - 12/31/2019, Every day, Daily Average",1340,957,1876
+"473","Frejgatan 20, Stockholm","648","Rålambshov","12/1/2019 - 12/31/2019, Every day, Daily Average",659,386,1123
+"473","Frejgatan 20, Stockholm","649","Centralstationen S","12/1/2019 - 12/31/2019, Every day, Daily Average",628,380,1037
+"473","Frejgatan 20, Stockholm","651","Karlsvik","12/1/2019 - 12/31/2019, Every day, Daily Average",728,460,1151
+"473","Frejgatan 20, Stockholm","652","Nockeby","12/1/2019 - 12/31/2019, Every day, Daily Average",1114,840,1476
+"473","Frejgatan 20, Stockholm","653","Olovslund","12/1/2019 - 12/31/2019, Every day, Daily Average",1086,775,1520
+"473","Frejgatan 20, Stockholm","654","Äppelviken","12/1/2019 - 12/31/2019, Every day, Daily Average",834,598,1162
+"473","Frejgatan 20, Stockholm","655","Tegelbacken","12/1/2019 - 12/31/2019, Every day, Daily Average",629,400,987
+"473","Frejgatan 20, Stockholm","656","Södra Björknäs","12/1/2019 - 12/31/2019, Every day, Daily Average",1431,1093,1873
+"473","Frejgatan 20, Stockholm","657","Pontonjärparken","12/1/2019 - 12/31/2019, Every day, Daily Average",766,513,1142
+"473","Frejgatan 20, Stockholm","658","Skeppsholmen","12/1/2019 - 12/31/2019, Every day, Daily Average",885,644,1214
+"473","Frejgatan 20, Stockholm","660","Stadshuset","12/1/2019 - 12/31/2019, Every day, Daily Average",795,480,1314
+"473","Frejgatan 20, Stockholm","661","Landstingshuset","12/1/2019 - 12/31/2019, Every day, Daily Average",846,564,1267
+"473","Frejgatan 20, Stockholm","662","Tre Kronor","12/1/2019 - 12/31/2019, Every day, Daily Average",657,405,1063
+"473","Frejgatan 20, Stockholm","663","Eira","12/1/2019 - 12/31/2019, Every day, Daily Average",803,527,1221
+"473","Frejgatan 20, Stockholm","664","Stora Essingen","12/1/2019 - 12/31/2019, Every day, Daily Average",505,318,800
+"473","Frejgatan 20, Stockholm","665","Skuru","12/1/2019 - 12/31/2019, Every day, Daily Average",1344,1009,1789
+"473","Frejgatan 20, Stockholm","666","Svedbergsplan","12/1/2019 - 12/31/2019, Every day, Daily Average",781,533,1144
+"473","Frejgatan 20, Stockholm","667","Centrala Marieberg","12/1/2019 - 12/31/2019, Every day, Daily Average",798,538,1181
+"473","Frejgatan 20, Stockholm","668","Mariebergsparken","12/1/2019 - 12/31/2019, Every day, Daily Average",758,504,1139
+"473","Frejgatan 20, Stockholm","669","Skeppsbron","12/1/2019 - 12/31/2019, Every day, Daily Average",921,653,1297
+"473","Frejgatan 20, Stockholm","671","Ålsten","12/1/2019 - 12/31/2019, Every day, Daily Average",971,738,1276
+"473","Frejgatan 20, Stockholm","673","Stortorget","12/1/2019 - 12/31/2019, Every day, Daily Average",939,673,1309
+"473","Frejgatan 20, Stockholm","674","Lilla Essingen","12/1/2019 - 12/31/2019, Every day, Daily Average",486,298,791
+"473","Frejgatan 20, Stockholm","676","Munkbron","12/1/2019 - 12/31/2019, Every day, Daily Average",677,419,1092
+"473","Frejgatan 20, Stockholm","677","Höglandet","12/1/2019 - 12/31/2019, Every day, Daily Average",1081,877,1331
+"473","Frejgatan 20, Stockholm","678","Ludvigsberg","12/1/2019 - 12/31/2019, Every day, Daily Average",796,546,1159
+"473","Frejgatan 20, Stockholm","679","Mariaberget","12/1/2019 - 12/31/2019, Every day, Daily Average",750,503,1118
+"473","Frejgatan 20, Stockholm","680","Högalidskyrkan","12/1/2019 - 12/31/2019, Every day, Daily Average",881,602,1287
+"473","Frejgatan 20, Stockholm","681","Långholmen","12/1/2019 - 12/31/2019, Every day, Daily Average",810,542,1208
+"473","Frejgatan 20, Stockholm","682","Smedslätten","12/1/2019 - 12/31/2019, Every day, Daily Average",881,688,1127
+"473","Frejgatan 20, Stockholm","683","Gullfjärdsplan","12/1/2019 - 12/31/2019, Every day, Daily Average",716,448,1143
+"473","Frejgatan 20, Stockholm","684","Mosebacke","12/1/2019 - 12/31/2019, Every day, Daily Average",847,543,1320
+"473","Frejgatan 20, Stockholm","685","Klinten","12/1/2019 - 12/31/2019, Every day, Daily Average",1372,1050,1791
+"473","Frejgatan 20, Stockholm","686","Stadsgården","12/1/2019 - 12/31/2019, Every day, Daily Average",813,551,1199
+"473","Frejgatan 20, Stockholm","687","Norra Lännersta","12/1/2019 - 12/31/2019, Every day, Daily Average",1477,1142,1908
+"473","Frejgatan 20, Stockholm","690","Danviken","12/1/2019 - 12/31/2019, Every day, Daily Average",1150,787,1679
+"473","Frejgatan 20, Stockholm","691","Masthamnen","12/1/2019 - 12/31/2019, Every day, Daily Average",881,613,1265
+"473","Frejgatan 20, Stockholm","692","Maria Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",920,619,1366
+"473","Frejgatan 20, Stockholm","693","Vikdalen","12/1/2019 - 12/31/2019, Every day, Daily Average",1239,887,1730
+"473","Frejgatan 20, Stockholm","694","Jarlaberg","12/1/2019 - 12/31/2019, Every day, Daily Average",1197,889,1610
+"473","Frejgatan 20, Stockholm","695","Skinnarviksringen","12/1/2019 - 12/31/2019, Every day, Daily Average",1051,727,1517
+"473","Frejgatan 20, Stockholm","696","Östra Gröndal","12/1/2019 - 12/31/2019, Every day, Daily Average",548,353,849
+"473","Frejgatan 20, Stockholm","698","Bergsund","12/1/2019 - 12/31/2019, Every day, Daily Average",882,598,1299
+"473","Frejgatan 20, Stockholm","699","Katarina Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",1199,858,1674
+"473","Frejgatan 20, Stockholm","700","Eknäs","12/1/2019 - 12/31/2019, Every day, Daily Average",1415,1095,1827
+"473","Frejgatan 20, Stockholm","701","Östra Ektorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1302,983,1723
+"473","Frejgatan 20, Stockholm","702","Bysistäppan","12/1/2019 - 12/31/2019, Every day, Daily Average",879,597,1292
+"473","Frejgatan 20, Stockholm","703","Västra Ektorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1291,969,1718
+"473","Frejgatan 20, Stockholm","704","Swedenborgsgatan","12/1/2019 - 12/31/2019, Every day, Daily Average",944,655,1359
+"473","Frejgatan 20, Stockholm","705","Ersta","12/1/2019 - 12/31/2019, Every day, Daily Average",921,649,1305
+"473","Frejgatan 20, Stockholm","706","Skogalund","12/1/2019 - 12/31/2019, Every day, Daily Average",1258,938,1686
+"473","Frejgatan 20, Stockholm","707","Zinkensdamm","12/1/2019 - 12/31/2019, Every day, Daily Average",976,687,1385
+"473","Frejgatan 20, Stockholm","708","Hornstull","12/1/2019 - 12/31/2019, Every day, Daily Average",959,671,1370
+"473","Frejgatan 20, Stockholm","709","Södra Nämndhuset","12/1/2019 - 12/31/2019, Every day, Daily Average",1024,704,1488
+"473","Frejgatan 20, Stockholm","710","Saltängen","12/1/2019 - 12/31/2019, Every day, Daily Average",1328,1003,1756
+"473","Frejgatan 20, Stockholm","711","Bergsgruvan","12/1/2019 - 12/31/2019, Every day, Daily Average",945,665,1342
+"473","Frejgatan 20, Stockholm","714","Södra Station Öst","12/1/2019 - 12/31/2019, Every day, Daily Average",803,507,1270
+"473","Frejgatan 20, Stockholm","715","Sofia Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",944,670,1328
+"473","Frejgatan 20, Stockholm","716","Nytorget","12/1/2019 - 12/31/2019, Every day, Daily Average",1093,765,1560
+"473","Frejgatan 20, Stockholm","718","Lövholmen","12/1/2019 - 12/31/2019, Every day, Daily Average",909,612,1348
+"473","Frejgatan 20, Stockholm","719","Finntorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1114,806,1538
+"473","Frejgatan 20, Stockholm","720","Åsötorget","12/1/2019 - 12/31/2019, Every day, Daily Average",862,543,1366
+"473","Frejgatan 20, Stockholm","721","Östra Åsö","12/1/2019 - 12/31/2019, Every day, Daily Average",1117,754,1653
+"473","Frejgatan 20, Stockholm","722","Nacka Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",1207,886,1643
+"473","Frejgatan 20, Stockholm","723","Bjurholmsplan","12/1/2019 - 12/31/2019, Every day, Daily Average",1039,722,1493
+"473","Frejgatan 20, Stockholm","725","Barnängen","12/1/2019 - 12/31/2019, Every day, Daily Average",947,671,1335
+"473","Frejgatan 20, Stockholm","726","Danviken N","12/1/2019 - 12/31/2019, Every day, Daily Average",985,713,1360
+"473","Frejgatan 20, Stockholm","728","Sköldgatan Nord","12/1/2019 - 12/31/2019, Every day, Daily Average",1108,748,1640
+"473","Frejgatan 20, Stockholm","729","Henriksdal","12/1/2019 - 12/31/2019, Every day, Daily Average",1184,828,1691
+"473","Frejgatan 20, Stockholm","730","Vita Bergen","12/1/2019 - 12/31/2019, Every day, Daily Average",956,702,1301
+"473","Frejgatan 20, Stockholm","731","Västra Åsö","12/1/2019 - 12/31/2019, Every day, Daily Average",961,697,1324
+"473","Frejgatan 20, Stockholm","732","Nämndhusområdet","12/1/2019 - 12/31/2019, Every day, Daily Average",1152,846,1568
+"473","Frejgatan 20, Stockholm","735","Årstaäng","12/1/2019 - 12/31/2019, Every day, Daily Average",814,551,1201
+"473","Frejgatan 20, Stockholm","736","Sköldgatan Syd","12/1/2019 - 12/31/2019, Every day, Daily Average",1124,762,1656
+"473","Frejgatan 20, Stockholm","737","Duvnäs","12/1/2019 - 12/31/2019, Every day, Daily Average",1326,963,1825
+"473","Frejgatan 20, Stockholm","738","Helgalunden","12/1/2019 - 12/31/2019, Every day, Daily Average",877,563,1365
+"473","Frejgatan 20, Stockholm","739","Alphyddan","12/1/2019 - 12/31/2019, Every day, Daily Average",1074,771,1494
+"473","Frejgatan 20, Stockholm","740","Vinterviken","12/1/2019 - 12/31/2019, Every day, Daily Average",571,374,871
+"473","Frejgatan 20, Stockholm","741","Rosenlund","12/1/2019 - 12/31/2019, Every day, Daily Average",1048,709,1548
+"473","Frejgatan 20, Stockholm","743","Liljeholmsberget","12/1/2019 - 12/31/2019, Every day, Daily Average",946,642,1392
+"473","Frejgatan 20, Stockholm","744","Storängen","12/1/2019 - 12/31/2019, Every day, Daily Average",1271,929,1737
+"473","Frejgatan 20, Stockholm","745","Södersjukhuset","12/1/2019 - 12/31/2019, Every day, Daily Average",1177,802,1725
+"473","Frejgatan 20, Stockholm","747","Blekingetäppan","12/1/2019 - 12/31/2019, Every day, Daily Average",946,633,1412
+"473","Frejgatan 20, Stockholm","748","Axelsberg Nord","12/1/2019 - 12/31/2019, Every day, Daily Average",852,611,1188
+"473","Frejgatan 20, Stockholm","749","Årsta Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",932,604,1436
+"473","Frejgatan 20, Stockholm","750","Blecktornet","12/1/2019 - 12/31/2019, Every day, Daily Average",898,648,1244
+"473","Frejgatan 20, Stockholm","752","Eriksdal","12/1/2019 - 12/31/2019, Every day, Daily Average",821,542,1242
+"473","Frejgatan 20, Stockholm","753","Sankt Sigfrid","12/1/2019 - 12/31/2019, Every day, Daily Average",595,387,913
+"473","Frejgatan 20, Stockholm","754","Nybohov","12/1/2019 - 12/31/2019, Every day, Daily Average",611,399,933
+"473","Frejgatan 20, Stockholm","756","Sickla industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1063,757,1491
+"473","Frejgatan 20, Stockholm","759","Ekudden","12/1/2019 - 12/31/2019, Every day, Daily Average",1146,854,1536
+"473","Frejgatan 20, Stockholm","760","Danviken S","12/1/2019 - 12/31/2019, Every day, Daily Average",1166,784,1731
+"473","Frejgatan 20, Stockholm","762","Tullgården","12/1/2019 - 12/31/2019, Every day, Daily Average",876,570,1345
+"473","Frejgatan 20, Stockholm","763","Örnsberg Nord-Öst","12/1/2019 - 12/31/2019, Every day, Daily Average",795,562,1124
+"473","Frejgatan 20, Stockholm","764","Skanstull","12/1/2019 - 12/31/2019, Every day, Daily Average",863,563,1321
+"473","Frejgatan 20, Stockholm","765","Nyboda Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",662,433,1010
+"473","Frejgatan 20, Stockholm","766","Hammarbyvägen Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",1089,759,1560
+"473","Frejgatan 20, Stockholm","767","Nyboda V","12/1/2019 - 12/31/2019, Every day, Daily Average",644,421,983
+"473","Frejgatan 20, Stockholm","770","Hammarbyvägen V","12/1/2019 - 12/31/2019, Every day, Daily Average",1028,669,1579
+"473","Frejgatan 20, Stockholm","771","Örnsbergs industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",816,582,1143
+"473","Frejgatan 20, Stockholm","772","Årsta Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",885,588,1331
+"473","Frejgatan 20, Stockholm","773","Tallbacken","12/1/2019 - 12/31/2019, Every day, Daily Average",1216,851,1737
+"473","Frejgatan 20, Stockholm","774","Norra Mälarhöjden","12/1/2019 - 12/31/2019, Every day, Daily Average",1022,754,1384
+"473","Frejgatan 20, Stockholm","775","Fastlagsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",730,522,1019
+"473","Frejgatan 20, Stockholm","776","Örnsberg Syd-Öst","12/1/2019 - 12/31/2019, Every day, Daily Average",795,563,1122
+"473","Frejgatan 20, Stockholm","779","Örnsberg Syd-Väst","12/1/2019 - 12/31/2019, Every day, Daily Average",794,578,1089
+"473","Frejgatan 20, Stockholm","780","Skanskvarn","12/1/2019 - 12/31/2019, Every day, Daily Average",837,571,1225
+"473","Frejgatan 20, Stockholm","781","Svandammen","12/1/2019 - 12/31/2019, Every day, Daily Average",763,521,1116
+"473","Frejgatan 20, Stockholm","782","Axelsberg Syd-Öst","12/1/2019 - 12/31/2019, Every day, Daily Average",866,626,1196
+"473","Frejgatan 20, Stockholm","783","Sågtorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1366,989,1886
+"473","Frejgatan 20, Stockholm","784","Erstavik","12/1/2019 - 12/31/2019, Every day, Daily Average",1384,1013,1889
+"473","Frejgatan 20, Stockholm","787","Björkhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",1165,781,1737
+"473","Frejgatan 20, Stockholm","788","Yttre Bredäng","12/1/2019 - 12/31/2019, Every day, Daily Average",900,659,1228
+"473","Frejgatan 20, Stockholm","789","Telefonplan","12/1/2019 - 12/31/2019, Every day, Daily Average",763,542,1073
+"473","Frejgatan 20, Stockholm","791","Vretensborg","12/1/2019 - 12/31/2019, Every day, Daily Average",690,447,1062
+"473","Frejgatan 20, Stockholm","792","Norra Hägerstensåsen","12/1/2019 - 12/31/2019, Every day, Daily Average",848,629,1142
+"473","Frejgatan 20, Stockholm","794","Skärmarbrink","12/1/2019 - 12/31/2019, Every day, Daily Average",891,603,1315
+"473","Frejgatan 20, Stockholm","795","Upplagsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",755,474,1202
+"473","Frejgatan 20, Stockholm","796","Hammarbyhöjden","12/1/2019 - 12/31/2019, Every day, Daily Average",1093,745,1602
+"473","Frejgatan 20, Stockholm","797","Fisksätra sm","12/1/2019 - 12/31/2019, Every day, Daily Average",1443,1069,1947
+"473","Frejgatan 20, Stockholm","798","Gullmarsplan","12/1/2019 - 12/31/2019, Every day, Daily Average",875,604,1266
+"473","Frejgatan 20, Stockholm","801","Mikrofonvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",710,488,1031
+"473","Frejgatan 20, Stockholm","802","Karusellvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",701,474,1035
+"473","Frejgatan 20, Stockholm","803","Årsta partihallar","12/1/2019 - 12/31/2019, Every day, Daily Average",809,518,1262
+"473","Frejgatan 20, Stockholm","804","Södra Hägerstensåsen","12/1/2019 - 12/31/2019, Every day, Daily Average",840,594,1187
+"473","Frejgatan 20, Stockholm","805","Slakthuset","12/1/2019 - 12/31/2019, Every day, Daily Average",897,616,1304
+"473","Frejgatan 20, Stockholm","807","Bredängs Allé","12/1/2019 - 12/31/2019, Every day, Daily Average",1043,763,1425
+"473","Frejgatan 20, Stockholm","810","Västra Enskede Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",950,670,1346
+"473","Frejgatan 20, Stockholm","811","Västertorp","12/1/2019 - 12/31/2019, Every day, Daily Average",823,592,1143
+"473","Frejgatan 20, Stockholm","812","Saltsjöbaden centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",1568,1163,2112
+"473","Frejgatan 20, Stockholm","813","Valla Gärde","12/1/2019 - 12/31/2019, Every day, Daily Average",855,555,1316
+"473","Frejgatan 20, Stockholm","814","Västberga Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",740,505,1082
+"473","Frejgatan 20, Stockholm","815","Hökmossen","12/1/2019 - 12/31/2019, Every day, Daily Average",881,620,1251
+"473","Frejgatan 20, Stockholm","816","Östbergahöjden","12/1/2019 - 12/31/2019, Every day, Daily Average",1007,703,1441
+"473","Frejgatan 20, Stockholm","817","Västra Enskedefältet","12/1/2019 - 12/31/2019, Every day, Daily Average",999,719,1386
+"473","Frejgatan 20, Stockholm","818","Tattby","12/1/2019 - 12/31/2019, Every day, Daily Average",1642,1225,2200
+"473","Frejgatan 20, Stockholm","820","Norra Solberga","12/1/2019 - 12/31/2019, Every day, Daily Average",771,526,1128
+"473","Frejgatan 20, Stockholm","822","Kärrtorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1107,787,1555
+"473","Frejgatan 20, Stockholm","824","Salems glesbygd","12/1/2019 - 12/31/2019, Every day, Daily Average",1442,1155,1800
+"473","Frejgatan 20, Stockholm","825","Dalen","12/1/2019 - 12/31/2019, Every day, Daily Average",979,695,1378
+"473","Frejgatan 20, Stockholm","826","Gulddragaren","12/1/2019 - 12/31/2019, Every day, Daily Average",855,633,1154
+"473","Frejgatan 20, Stockholm","827","Sandsborg","12/1/2019 - 12/31/2019, Every day, Daily Average",921,641,1321
+"473","Frejgatan 20, Stockholm","828","Västra Solberga","12/1/2019 - 12/31/2019, Every day, Daily Average",769,538,1098
+"473","Frejgatan 20, Stockholm","829","Liseberg","12/1/2019 - 12/31/2019, Every day, Daily Average",890,605,1308
+"473","Frejgatan 20, Stockholm","830","Enskede Kyrka","12/1/2019 - 12/31/2019, Every day, Daily Average",935,655,1333
+"473","Frejgatan 20, Stockholm","831","Östra Enskedefältet","12/1/2019 - 12/31/2019, Every day, Daily Average",1036,745,1438
+"473","Frejgatan 20, Stockholm","832","Ekerö centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",1552,1284,1875
+"473","Frejgatan 20, Stockholm","833","Trädskolan","12/1/2019 - 12/31/2019, Every day, Daily Average",935,666,1312
+"473","Frejgatan 20, Stockholm","834","Sätra Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",1002,748,1341
+"473","Frejgatan 20, Stockholm","835","Fruängen","12/1/2019 - 12/31/2019, Every day, Daily Average",819,590,1135
+"473","Frejgatan 20, Stockholm","836","Långbro V","12/1/2019 - 12/31/2019, Every day, Daily Average",873,620,1228
+"473","Frejgatan 20, Stockholm","839","Långbro Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",1010,767,1328
+"473","Frejgatan 20, Stockholm","841","Enskededalen","12/1/2019 - 12/31/2019, Every day, Daily Average",1051,752,1467
+"473","Frejgatan 20, Stockholm","846","Västra Stureby","12/1/2019 - 12/31/2019, Every day, Daily Average",1043,775,1403
+"473","Frejgatan 20, Stockholm","847","Örby Slott","12/1/2019 - 12/31/2019, Every day, Daily Average",1009,712,1428
+"473","Frejgatan 20, Stockholm","849","Jakobslund","12/1/2019 - 12/31/2019, Every day, Daily Average",888,643,1225
+"473","Frejgatan 20, Stockholm","852","Svampvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",951,672,1344
+"473","Frejgatan 20, Stockholm","855","Smista Juringe","12/1/2019 - 12/31/2019, Every day, Daily Average",925,675,1267
+"473","Frejgatan 20, Stockholm","857","Pungpinan","12/1/2019 - 12/31/2019, Every day, Daily Average",1082,770,1519
+"473","Frejgatan 20, Stockholm","858","Södra Solberga","12/1/2019 - 12/31/2019, Every day, Daily Average",1076,745,1553
+"473","Frejgatan 20, Stockholm","860","Ö:a Älvsjö Mässan","12/1/2019 - 12/31/2019, Every day, Daily Average",1067,753,1511
+"473","Frejgatan 20, Stockholm","864","Örby S","12/1/2019 - 12/31/2019, Every day, Daily Average",1044,772,1411
+"473","Frejgatan 20, Stockholm","865","Mellersta Skärholmen","12/1/2019 - 12/31/2019, Every day, Daily Average",1132,831,1541
+"473","Frejgatan 20, Stockholm","866","Norra Svedmyra","12/1/2019 - 12/31/2019, Every day, Daily Average",1095,774,1548
+"473","Frejgatan 20, Stockholm","869","Skärholmens Centrum","12/1/2019 - 12/31/2019, Every day, Daily Average",1049,786,1399
+"473","Frejgatan 20, Stockholm","871","Bäckaskiftsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",1201,862,1671
+"473","Frejgatan 20, Stockholm","872","Örby N","12/1/2019 - 12/31/2019, Every day, Daily Average",1119,821,1523
+"473","Frejgatan 20, Stockholm","875","Kungens Kurva N","12/1/2019 - 12/31/2019, Every day, Daily Average",966,718,1299
+"473","Frejgatan 20, Stockholm","880","Södra Tallkrogen","12/1/2019 - 12/31/2019, Every day, Daily Average",966,695,1341
+"473","Frejgatan 20, Stockholm","881","Ö:a Älvsjö Industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1104,788,1545
+"473","Frejgatan 20, Stockholm","884","Hagsätra Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",1146,817,1605
+"473","Frejgatan 20, Stockholm","885","Bandhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",1087,837,1410
+"473","Frejgatan 20, Stockholm","889","Skarpnäcksfältet Ö","12/1/2019 - 12/31/2019, Every day, Daily Average",1174,876,1572
+"473","Frejgatan 20, Stockholm","890","Vårby Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1001,763,1312
+"473","Frejgatan 20, Stockholm","894","Södra Skärholmen","12/1/2019 - 12/31/2019, Every day, Daily Average",964,726,1279
+"473","Frejgatan 20, Stockholm","895","Skebokvarnsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",1155,856,1556
+"473","Frejgatan 20, Stockholm","896","Gubbängstorget","12/1/2019 - 12/31/2019, Every day, Daily Average",1212,932,1576
+"473","Frejgatan 20, Stockholm","897","Gubbängens Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1008,736,1379
+"473","Frejgatan 20, Stockholm","898","Norra Sköndal","12/1/2019 - 12/31/2019, Every day, Daily Average",1117,824,1513
+"473","Frejgatan 20, Stockholm","899","Flaten","12/1/2019 - 12/31/2019, Every day, Daily Average",1258,946,1671
+"473","Frejgatan 20, Stockholm","902","Hedvigslund","12/1/2019 - 12/31/2019, Every day, Daily Average",1345,1057,1710
+"473","Frejgatan 20, Stockholm","904","Ormkärr","12/1/2019 - 12/31/2019, Every day, Daily Average",1169,841,1623
+"473","Frejgatan 20, Stockholm","905","Kungens Kurva S","12/1/2019 - 12/31/2019, Every day, Daily Average",1028,780,1354
+"473","Frejgatan 20, Stockholm","909","Slagsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1156,898,1486
+"473","Frejgatan 20, Stockholm","910","Fittja industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1128,867,1467
+"473","Frejgatan 20, Stockholm","911","Stora Sköndal","12/1/2019 - 12/31/2019, Every day, Daily Average",1142,839,1553
+"473","Frejgatan 20, Stockholm","912","Sturehov","12/1/2019 - 12/31/2019, Every day, Daily Average",1298,1020,1650
+"473","Frejgatan 20, Stockholm","915","Rågsveds Torg","12/1/2019 - 12/31/2019, Every day, Daily Average",1213,872,1685
+"473","Frejgatan 20, Stockholm","916","Bagarfruvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",1115,819,1517
+"473","Frejgatan 20, Stockholm","917","Västra Sköndal","12/1/2019 - 12/31/2019, Every day, Daily Average",1061,782,1439
+"473","Frejgatan 20, Stockholm","919","Söndagsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",1034,756,1413
+"473","Frejgatan 20, Stockholm","922","Masmo","12/1/2019 - 12/31/2019, Every day, Daily Average",1076,820,1410
+"473","Frejgatan 20, Stockholm","926","Segersminne","12/1/2019 - 12/31/2019, Every day, Daily Average",1268,933,1723
+"473","Frejgatan 20, Stockholm","928","Storkällans kyrkogård","12/1/2019 - 12/31/2019, Every day, Daily Average",1413,1093,1825
+"473","Frejgatan 20, Stockholm","930","Öringe","12/1/2019 - 12/31/2019, Every day, Daily Average",1492,1166,1908
+"473","Frejgatan 20, Stockholm","934","Vårby arbetsomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1082,829,1411
+"473","Frejgatan 20, Stockholm","935","Norra Farsta","12/1/2019 - 12/31/2019, Every day, Daily Average",1108,813,1508
+"473","Frejgatan 20, Stockholm","936","Norra Lindalen","12/1/2019 - 12/31/2019, Every day, Daily Average",1409,1090,1820
+"473","Frejgatan 20, Stockholm","938","Bollmora industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1451,1121,1877
+"473","Frejgatan 20, Stockholm","941","Källbrink Vistaberg","12/1/2019 - 12/31/2019, Every day, Daily Average",1405,1096,1800
+"473","Frejgatan 20, Stockholm","943","Skrubba","12/1/2019 - 12/31/2019, Every day, Daily Average",1371,1033,1819
+"473","Frejgatan 20, Stockholm","945","Fridhem","12/1/2019 - 12/31/2019, Every day, Daily Average",1335,1041,1711
+"473","Frejgatan 20, Stockholm","953","Östra Larsboda","12/1/2019 - 12/31/2019, Every day, Daily Average",1167,866,1571
+"473","Frejgatan 20, Stockholm","963","Södra Hallunda","12/1/2019 - 12/31/2019, Every day, Daily Average",1197,926,1546
+"473","Frejgatan 20, Stockholm","972","Norra Hanviken","12/1/2019 - 12/31/2019, Every day, Daily Average",1508,1124,2022
+"473","Frejgatan 20, Stockholm","973","Trångsunds småhus","12/1/2019 - 12/31/2019, Every day, Daily Average",1233,921,1649
+"473","Frejgatan 20, Stockholm","977","Sjödalen-Huddinge C","12/1/2019 - 12/31/2019, Every day, Daily Average",1362,1026,1806
+"473","Frejgatan 20, Stockholm","983","Albyberget","12/1/2019 - 12/31/2019, Every day, Daily Average",1332,1022,1735
+"473","Frejgatan 20, Stockholm","987","Fullersta Gård","12/1/2019 - 12/31/2019, Every day, Daily Average",1373,1070,1761
+"473","Frejgatan 20, Stockholm","992","Tre Källor","12/1/2019 - 12/31/2019, Every day, Daily Average",1237,968,1580
+"473","Frejgatan 20, Stockholm","996","Eriksbergs industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1428,1103,1847
+"473","Frejgatan 20, Stockholm","998","Södra Hanviken","12/1/2019 - 12/31/2019, Every day, Daily Average",1504,1138,1986
+"473","Frejgatan 20, Stockholm","1004","Vårdkasen","12/1/2019 - 12/31/2019, Every day, Daily Average",1397,1092,1786
+"473","Frejgatan 20, Stockholm","1008","Grantorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1454,1136,1860
+"473","Frejgatan 20, Stockholm","1015","Västra Skogås","12/1/2019 - 12/31/2019, Every day, Daily Average",1253,943,1664
+"473","Frejgatan 20, Stockholm","1016","Länna Drevviken","12/1/2019 - 12/31/2019, Every day, Daily Average",1294,987,1695
+"473","Frejgatan 20, Stockholm","1028","Länna arbetsomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1303,990,1714
+"473","Frejgatan 20, Stockholm","1029","Östra Oxelgrenshagen","12/1/2019 - 12/31/2019, Every day, Daily Average",1657,1330,2063
+"473","Frejgatan 20, Stockholm","1062","Glasberga","12/1/2019 - 12/31/2019, Every day, Daily Average",1608,1284,2012
+"473","Frejgatan 20, Stockholm","1063","Vega","12/1/2019 - 12/31/2019, Every day, Daily Average",1367,1042,1791
+"473","Frejgatan 20, Stockholm","1084","Norra Söderby","12/1/2019 - 12/31/2019, Every day, Daily Average",1498,1156,1940
+"473","Frejgatan 20, Stockholm","1117","Brandbergens industriomr","12/1/2019 - 12/31/2019, Every day, Daily Average",1542,1179,2016
+"473","Frejgatan 20, Stockholm","1119","Norra Handen","12/1/2019 - 12/31/2019, Every day, Daily Average",1489,1125,1969
+"473","Frejgatan 20, Stockholm","1167","Järvastaden norra","12/1/2019 - 12/31/2019, Every day, Daily Average",593,438,801
+"473","Frejgatan 20, Stockholm","1168","Järvastaden södra","12/1/2019 - 12/31/2019, Every day, Daily Average",552,390,779
+"473","Frejgatan 20, Stockholm","1169","Järvastaden östra","12/1/2019 - 12/31/2019, Every day, Daily Average",525,368,748
+"473","Frejgatan 20, Stockholm","1170","Järvafältet","12/1/2019 - 12/31/2019, Every day, Daily Average",478,326,700
+"473","Frejgatan 20, Stockholm","1171","Agnesberg","12/1/2019 - 12/31/2019, Every day, Daily Average",514,358,736
+"473","Frejgatan 20, Stockholm","1172","Bagartorp","12/1/2019 - 12/31/2019, Every day, Daily Average",498,344,719
+"473","Frejgatan 20, Stockholm","1173","Nya Ulriksdal","12/1/2019 - 12/31/2019, Every day, Daily Average",429,287,640
+"473","Frejgatan 20, Stockholm","1174","Nationalarenan","12/1/2019 - 12/31/2019, Every day, Daily Average",685,439,1067
+"473","Frejgatan 20, Stockholm","1175","Södra Frösunda","12/1/2019 - 12/31/2019, Every day, Daily Average",458,258,812
+"473","Frejgatan 20, Stockholm","1176","Norra Frösunda","12/1/2019 - 12/31/2019, Every day, Daily Average",435,290,650
+"473","Frejgatan 20, Stockholm","1177","Ulriksdals IP","12/1/2019 - 12/31/2019, Every day, Daily Average",616,402,943
+"473","Frejgatan 20, Stockholm","1178","Ballongberget","12/1/2019 - 12/31/2019, Every day, Daily Average",508,331,779
+"473","Frejgatan 20, Stockholm","1179","Solna station","12/1/2019 - 12/31/2019, Every day, Daily Average",380,245,588
+"473","Frejgatan 20, Stockholm","1180","Stora Frösunda","12/1/2019 - 12/31/2019, Every day, Daily Average",303,182,503
+"473","Frejgatan 20, Stockholm","1181","Brahelund","12/1/2019 - 12/31/2019, Every day, Daily Average",327,204,521
+"473","Frejgatan 20, Stockholm","1182","Ingenting","12/1/2019 - 12/31/2019, Every day, Daily Average",702,460,1069
+"473","Frejgatan 20, Stockholm","1183","Pampas marina","12/1/2019 - 12/31/2019, Every day, Daily Average",810,475,1379
+"473","Frejgatan 20, Stockholm","1184","Råsundastadion","12/1/2019 - 12/31/2019, Every day, Daily Average",503,349,723
+"473","Frejgatan 20, Stockholm","1185","Västra Hagalund","12/1/2019 - 12/31/2019, Every day, Daily Average",437,307,620
+"473","Frejgatan 20, Stockholm","1186","Södra Råsunda","12/1/2019 - 12/31/2019, Every day, Daily Average",522,384,707
+"473","Frejgatan 20, Stockholm","1187","Hästhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",1834,1486,2263
+"473","Frejgatan 20, Stockholm","1196","Gustavsbergs glesbygd V","12/1/2019 - 12/31/2019, Every day, Daily Average",1705,1344,2162
+"473","Frejgatan 20, Stockholm","1198","Vega Söderhagen","12/1/2019 - 12/31/2019, Every day, Daily Average",1382,1050,1817
+"473","Frejgatan 20, Stockholm","1199","Gamla Nynäsvägen","12/1/2019 - 12/31/2019, Every day, Daily Average",1420,1087,1854
+"473","Frejgatan 20, Stockholm","1200","Kvarntorp","12/1/2019 - 12/31/2019, Every day, Daily Average",1397,1064,1832
+"473","Frejgatan 20, Stockholm","1201","Brotorp","12/1/2019 - 12/31/2019, Every day, Daily Average",585,422,809
+"473","Frejgatan 20, Stockholm","1203","Okvista","12/1/2019 - 12/31/2019, Every day, Daily Average",1318,1088,1595
+"473","Frejgatan 20, Stockholm","1204","Östra Vallentuna tätort","12/1/2019 - 12/31/2019, Every day, Daily Average",1227,1017,1479
+"473","Frejgatan 20, Stockholm","1206","Nya Karolinska","12/1/2019 - 12/31/2019, Every day, Daily Average",360,152,848
+"473","Frejgatan 20, Stockholm","1207","Arninge arbetsomr norra","12/1/2019 - 12/31/2019, Every day, Daily Average",870,694,1089
+"473","Frejgatan 20, Stockholm","1212","Näsby","12/1/2019 - 12/31/2019, Every day, Daily Average",1841,1522,2226
+"473","Frejgatan 20, Stockholm","1213","Arlanda Stad Öst","12/1/2019 - 12/31/2019, Every day, Daily Average",1564,1242,1969
+"473","Frejgatan 20, Stockholm","1214","Pilsbo","12/1/2019 - 12/31/2019, Every day, Daily Average",2007,1665,2418
+"473","Frejgatan 20, Stockholm","1215","Blåsut","12/1/2019 - 12/31/2019, Every day, Daily Average",1029,701,1508
+"473","Frejgatan 20, Stockholm","1216","Norra Rinkeby, Askeby","12/1/2019 - 12/31/2019, Every day, Daily Average",691,507,940
+"473","Frejgatan 20, Stockholm","1218","Norra Station 2","12/1/2019 - 12/31/2019, Every day, Daily Average",216,119,390
+"473","Frejgatan 20, Stockholm","1219","Värtaverket 2","12/1/2019 - 12/31/2019, Every day, Daily Average",454,306,672
+"473","Frejgatan 20, Stockholm","1220","Värtaverket 1","12/1/2019 - 12/31/2019, Every day, Daily Average",290,140,597
+"473","Frejgatan 20, Stockholm","1221","Värtahamnen 2","12/1/2019 - 12/31/2019, Every day, Daily Average",311,163,590
+"473","Frejgatan 20, Stockholm","1222","Östbergavägen","12/1/2019 - 12/31/2019, Every day, Daily Average",958,650,1410
+"473","Frejgatan 20, Stockholm","1223","Norra Tensta,Tensta Allé","12/1/2019 - 12/31/2019, Every day, Daily Average",749,556,1008
+"473","Frejgatan 20, Stockholm","1225","Viderögatan","12/1/2019 - 12/31/2019, Every day, Daily Average",564,399,795
+"473","Frejgatan 20, Stockholm","1226","Grönlandsgången","12/1/2019 - 12/31/2019, Every day, Daily Average",699,537,908
+"473","Frejgatan 20, Stockholm","1227","Solna Kyrkby","12/1/2019 - 12/31/2019, Every day, Daily Average",293,187,457
+"473","Frejgatan 20, Stockholm","1232","Rankhus","12/1/2019 - 12/31/2019, Every day, Daily Average",1354,1059,1731
+"473","Frejgatan 20, Stockholm","1233","Märsta Måby","12/1/2019 - 12/31/2019, Every day, Daily Average",1628,1338,1979
+"473","Frejgatan 20, Stockholm","1235","Arlanda Terminal","12/1/2019 - 12/31/2019, Every day, Daily Average",1793,1452,2213
+"473","Frejgatan 20, Stockholm","1236","Arlanda Södra","12/1/2019 - 12/31/2019, Every day, Daily Average",1691,1359,2102
